@@ -29,7 +29,10 @@ The startup block (~line 535 onward) is where all three are wired in. If a call 
 
 ## 3. Data model
 
-Put a `store_id` on every record from day one. Four more stores are planned (Mark's, Lee, Deep, Tres Amigos Market), all on NRS POS.
+Build for **Sunny Liquor only** for now; it's the pilot. Once Sunny Singh approves it, the same app is set up for **Mark's Liquor**, then **Tres Amigos Market**. All three run NRS POS and buy from the same wholesalers.
+
+- Put a `store_id` on every record from day one, so the next store is setup, not a rebuild.
+- Keep wholesalers (vendors) as their own shared list, since all three stores order from the same ones. Each store keeps its own items, people and orders.
 
 **items**: `id`, `name`, `size`, `unit` (Bottle | Can | Pack | Case | Each), `category` (13 fixed values, see `CATS` ~line 181), `barcode`, `active`, `source`, plus `sku`, `subcategory`, `brand`, `vendor`, `cost`, `price`, `par`, `reorderQty` (mostly empty today), `addedBy`, `createdAt`.
 
