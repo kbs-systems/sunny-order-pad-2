@@ -29,7 +29,7 @@ The startup block (~line 535 onward) is where all three are wired in. If a call 
 
 ## 3. Data model
 
-Put a `store_id` on every record from day one. Four more stores are planned (Mark's, Lee, Deep, #Amigos Market), all on NRS POS.
+Put a `store_id` on every record from day one. Four more stores are planned (Mark's, Lee, Deep, Tres Amigos Market), all on NRS POS.
 
 **items**: `id`, `name`, `size`, `unit` (Bottle | Can | Pack | Case | Each), `category` (13 fixed values, see `CATS` ~line 181), `barcode`, `active`, `source`, plus `sku`, `subcategory`, `brand`, `vendor`, `cost`, `price`, `par`, `reorderQty` (mostly empty today), `addedBy`, `createdAt`.
 
@@ -56,7 +56,7 @@ After an order is sent, the same list is used to check in the merchandise, then 
     - **Lost between pickup and store:** store < pickup.
     - **Extra received:** store > the larger of ordered and pickup.
 
-The result copies as English text for Sunny. Not built yet, and worth doing in the standalone version: an alert to Sunny or Shubham as soon as a pickup check finds a shortage, while the van is still at the wholesaler.
+The result copies as English text for Sunny. Not built yet, and worth doing in the standalone version: an alert to Sunny Singh as soon as a pickup check finds a shortage, while the van is still at the wholesaler.
 
 ## 4. New: online barcode lookup
 
