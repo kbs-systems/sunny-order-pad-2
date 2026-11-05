@@ -29,6 +29,7 @@ Barcode decoding does not need Claude: it uses the browser's `BarcodeDetector` w
 - Catalog by section with search, tap-to-add and +/− steppers. Unknown barcodes or photos are identified and saved to the list with their barcode.
 - Double-order check: warns when an item was already ordered today or in the 3 days before.
 - Sent orders with status Sent → Ordered → Received, a filter by person, Copy text, and Order again.
+- Receiving: check the order off at pickup and/or at the store (counts by hand or from a receipt photo), see what was short, lost or extra, and file it.
 
 ## Data model
 
@@ -43,7 +44,7 @@ Barcode decoding does not need Claude: it uses the browser's `BarcodeDetector` w
 | `active` | `false` hides the item from the order screen |
 | `source` | Where the item came from (master list, handwritten list, shelf photo) |
 
-**`orders/{id}`**: `createdAt` (ms), `byLabel` (orderer name), `status` (sent, ordered, received), `note` (English), `noteOriginal` (Spanish original, if translated), `lines[]` of `{itemId, name, size, unit, category, qty}`.
+**`orders/{id}`**: `createdAt` (ms), `byLabel` (orderer name), `status` (sent, ordered, received), `note` (English), `noteOriginal` (Spanish original, if translated), `lines[]` of `{itemId, name, size, unit, category, qty}`, and after receiving `receiving.{pickup,store}` and `issues`.
 
 ## items.csv notes
 
