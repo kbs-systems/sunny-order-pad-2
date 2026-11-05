@@ -130,6 +130,13 @@ textarea.copy{width:100%;min-height:140px;font-family:ui-monospace,Menlo,monospa
 .person[aria-pressed="true"]{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,var(--surface))}
 .person small{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--accent)}
 .ofilter{display:flex;gap:6px;overflow-x:auto;padding-block:12px 2px;scrollbar-width:none}
+.rline{display:flex;align-items:center;gap:10px;padding:10px 0;border-top:1px solid var(--line)}
+.rline .t{flex:1;min-width:0}.rline .t b{display:block;font-weight:600}.rline .t small{color:var(--muted)}
+.rflag{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.04em}
+.rflag.ok{color:var(--ok)}.rflag.bad{color:var(--warn)}
+.rsum{border-radius:12px;padding:12px 14px;background:var(--bg);display:flex;flex-direction:column;gap:4px}
+.rsum h3{margin:0;font-size:14px;text-transform:uppercase;letter-spacing:.05em;color:var(--warn)}
+.rmeta{font-size:13px;color:var(--muted)}.rmeta b{color:var(--warn)}
 </style>
 
 <div class="wrap">
@@ -160,7 +167,8 @@ textarea.copy{width:100%;min-height:140px;font-family:ui-monospace,Menlo,monospa
 </main>
 
 <main id="view-history" hidden>
-  <div class="ofilter" id="ofilter"></div>
+  <div class="ofilter" id="ostat"></div>
+  <div class="ofilter" id="ofilter" style="padding-top:4px"></div>
   <div id="orders"><div class="empty" data-t="loadingOrders"></div></div>
 </main>
 </div>
@@ -193,7 +201,14 @@ const T={
   sent:"Enviado",ordered:"Pedido",received:"Recibido",note:"Nota",someone:"Alguien",
   whoTitle:"¿Quién está pidiendo?",whoSub:"Este teléfono lo recuerda. Puedes cambiarlo arriba cuando quieras.",lead:"Encargado de inventario",ordering:"Pide",
   viewOnly:"Puedes ver los pedidos pero no enviarlos. Pídele a Sunny acceso de Colaborador.",openInClaude:"Abre esta página en Claude para cargar la lista de la tienda.",signIn:"Inicia sesión en Claude para ver la lista y enviar pedidos.",slow:"Todavía conectando con la lista… revisa tu señal.",loadErr:"No se pudo cargar la lista. Vuelve a abrir la página.",photoErr:"No se pudo abrir la foto.",
-  dupTitle:"Ya se pidió esto",dupSub:"Revisa los pedidos de hoy y de los últimos 3 días antes de pedirlo otra vez.",dupLine:"{who} pidió {q} · {when}",dupAdd:"Agregar de todos modos",dupSkip:"No agregar",dupTag:"Ya pedido",dupReview:"{n} de estos ya se pidieron en los últimos 3 días. Revisa antes de enviar.",dupList:"Ya pedido {when} por {who}. Márcalo solo si de verdad hace falta.",today:"hoy",yesterday:"ayer"},
+  dupTitle:"Ya se pidió esto",dupSub:"Revisa los pedidos de hoy y de los últimos 3 días antes de pedirlo otra vez.",dupLine:"{who} pidió {q} · {when}",dupAdd:"Agregar de todos modos",dupSkip:"No agregar",dupTag:"Ya pedido",dupReview:"{n} de estos ya se pidieron en los últimos 3 días. Revisa antes de enviar.",dupList:"Ya pedido {when} por {who}. Márcalo solo si de verdad hace falta.",today:"hoy",yesterday:"ayer",
+  receive:"Recibir",viewResult:"Ver resultado",recvTitle:"Recibir mercancía",atPickup:"Al recoger",atStore:"En la tienda",atPickupSub:"En el mayorista, mientras cargan la van.",atStoreSub:"Al descargar, o cuando llega una entrega.",
+  allHere:"Todo completo",orderedN:"pidieron {n}",lineOk:"Completo",lineShort:"Faltan {n}",lineExtra:"{n} de más",lineNone:"No llegó",
+  receipt:"Foto del recibo",receiptReading:"Claude está comparando el recibo con el pedido…",receiptDone:"Cantidades llenadas con el recibo. Revísalas antes de guardar.",receiptExtra:"En el recibo pero no en el pedido",
+  recvNote:"Nota (opcional)",recvNotePh:"ej. 2 cajas dañadas",save:"Guardar",pickupSaved:"Recogida guardada. Revisa otra vez al llegar a la tienda.",
+  resultTitle:"Resultado",vendorShort:"Faltó en el mayorista",transitLoss:"Se perdió entre la recogida y la tienda",extraRecv:"Llegó de más",allGood:"Todo llegó completo. Pedido archivado.",withIssues:"{n} diferencias. Pedido archivado.",
+  pickedBy:"Recogido por {p} · {when}",recvBy:"Recibido por {p} · {when}",issuesTag:"{n} diferencias",noIssues:"Completo",
+  toReceive:"Por recibir",filed:"Archivados",noOpen:"No hay pedidos por recibir.",noFiled:"Todavía no hay pedidos archivados.",recvErr:"No se pudo guardar. Revisa la conexión e intenta otra vez."},
  en:{newOrder:"New order",sentOrders:"Sent orders",scan:"Scan barcode",scanSub:"photo of the code",snap:"Snap item",snapSub:"Claude names it",list:"Snap a list",listSub:"paper list → order",notHere:"not available here",
   search:"Search items (e.g. red bull, 24 oz)",cantFind:"Can't find something?",addNew:"Add a new item",loading:"Loading the store's item list…",loadingOrders:"Loading sent orders…",reviewSend:"Review & send to Sunny Singh",
   item:"item",items:"items",units:"units",all:"All",everyone:"Everyone",onOrder:"On order",
@@ -210,14 +225,21 @@ const T={
   sent:"Sent",ordered:"Ordered",received:"Received",note:"Note",someone:"Someone",
   whoTitle:"Who's ordering?",whoSub:"This phone remembers it. Change it at the top anytime.",lead:"Inventory lead",ordering:"Ordering",
   viewOnly:"You can view orders but not send them. Ask Sunny for Contributor access.",openInClaude:"Open this page in Claude to load the store's item list.",signIn:"Sign in to Claude to see the store's item list and send orders.",slow:"Still connecting to the store's list… check your signal.",loadErr:"Couldn't load the item list. Reopen the page.",photoErr:"Couldn't open that photo.",
-  dupTitle:"Already ordered",dupSub:"Check today's orders and the last 3 days before ordering it again.",dupLine:"{who} ordered {q} · {when}",dupAdd:"Add anyway",dupSkip:"Don't add",dupTag:"Already ordered",dupReview:"{n} of these were already ordered in the last 3 days. Check before sending.",dupList:"Already ordered {when} by {who}. Tick it only if it's really needed.",today:"today",yesterday:"yesterday"}};
+  dupTitle:"Already ordered",dupSub:"Check today's orders and the last 3 days before ordering it again.",dupLine:"{who} ordered {q} · {when}",dupAdd:"Add anyway",dupSkip:"Don't add",dupTag:"Already ordered",dupReview:"{n} of these were already ordered in the last 3 days. Check before sending.",dupList:"Already ordered {when} by {who}. Tick it only if it's really needed.",today:"today",yesterday:"yesterday",
+  receive:"Receive",viewResult:"See result",recvTitle:"Receive merchandise",atPickup:"At pickup",atStore:"At the store",atPickupSub:"At the wholesaler, while loading the van.",atStoreSub:"When unloading, or when a delivery arrives.",
+  allHere:"Everything's here",orderedN:"ordered {n}",lineOk:"All here",lineShort:"{n} short",lineExtra:"{n} extra",lineNone:"Missing",
+  receipt:"Photo of receipt",receiptReading:"Claude is checking the receipt against the order…",receiptDone:"Quantities filled from the receipt. Check them before saving.",receiptExtra:"On the receipt but not in the order",
+  recvNote:"Note (optional)",recvNotePh:"e.g. 2 cases damaged",save:"Save",pickupSaved:"Pickup saved. Check again when you unload at the store.",
+  resultTitle:"Result",vendorShort:"Short at the wholesaler",transitLoss:"Lost between pickup and the store",extraRecv:"Extra received",allGood:"Everything arrived. Order filed.",withIssues:"{n} differences. Order filed.",
+  pickedBy:"Picked up by {p} · {when}",recvBy:"Received by {p} · {when}",issuesTag:"{n} differences",noIssues:"Complete",
+  toReceive:"To receive",filed:"Filed",noOpen:"No orders waiting to be received.",noFiled:"No filed orders yet.",recvErr:"Couldn't save. Check the connection and try again."}};
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const store={get(k,d){try{const v=localStorage.getItem(k);return v===null?d:v}catch(e){return d}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
 let lang=store.get("sunny-lang","es")==="en"?"en":"es";
 let who=store.get("sunny-who","");
 let db=null,user=null,sample=null,meId=null,canWrite=true;
-let items=[],orders=[],cart={},cat="All",ofilter="",profiles={};
+let items=[],orders=[],cart={},cat="All",ofilter="",ostat="open",profiles={};
 function t(k,v){let s=(T[lang][k]??T.en[k]??k);if(v)for(const [a,b] of Object.entries(v))s=s.replace("{"+a+"}",b);return s}
 const catName=c=>lang==="es"?(ES_CATS[c]||c):c;
 const unitName=u=>lang==="es"?(ES_UNITS[u]||u):u;
@@ -389,6 +411,64 @@ function review(){
     catch(err){btn.disabled=false;btn.textContent=t("send");toast(t(err&&err.code==="invalid_argument"?"noPermSend":"netSend"))}}}
 function copy(ta){const v=ta.value;(navigator.clipboard?navigator.clipboard.writeText(v):Promise.reject()).then(()=>toast(t("copied")),()=>{ta.focus();ta.select();toast(t("selected"))})}
 
+// ---------- receiving: check off an order at pickup and/or at the store ----------
+function recvSummary(o){const r=o.receiving||{},pk=r.pickup,st=r.store,out={short:[],lost:[],extra:[]};
+  if(!st)return null;
+  (o.lines||[]).forEach((l,i)=>{const ord=l.qty||0,s=st.qty?.[i]??0,pq=pk?(pk.qty?.[i]??0):null;
+    if(pq!==null){if(pq<ord)out.short.push({l,n:ord-pq});if(s<pq)out.lost.push({l,n:pq-s})}else if(s<ord)out.short.push({l,n:ord-s});
+    const top=Math.max(ord,pq??0);if(s>top)out.extra.push({l,n:s-top})});
+  out.count=new Set([...out.short,...out.lost,...out.extra].map(x=>x.l)).size;return out}
+function lineFlag(ord,q){return q===ord?`<span class="rflag ok">${esc(t("lineOk"))}</span>`:q===0?`<span class="rflag bad">${esc(t("lineNone"))}</span>`:q<ord?`<span class="rflag bad">${esc(t("lineShort",{n:ord-q}))}</span>`:`<span class="rflag bad">${esc(t("lineExtra",{n:q-ord}))}</span>`}
+function summaryHtml(o,x){const sec=(k,arr)=>arr.length?`<div class="rsum"><h3>${esc(t(k))}</h3>${arr.map(({l,n})=>`<div>${esc(l.name)} ${esc(l.size||"")} · <b>${n}</b></div>`).join("")}</div>`:"";
+  return x.count?sec("vendorShort",x.short)+sec("transitLoss",x.lost)+sec("extraRecv",x.extra):`<div class="rsum"><b style="color:var(--ok)">${esc(t("allGood"))}</b></div>`}
+function summaryText(o,x){let s=`RECEIVING — order of ${new Date(o.createdAt).toLocaleDateString("en-US")}\n`;const r=o.receiving||{};
+  if(r.pickup)s+=`Picked up by ${r.pickup.by||"?"} ${new Date(r.pickup.at).toLocaleString("en-US")}\n`;if(r.store)s+=`Received by ${r.store.by||"?"} ${new Date(r.store.at).toLocaleString("en-US")}\n`;
+  const sec=(h,a)=>{if(a.length){s+=`\n${h}\n`;a.forEach(({l,n})=>s+=`- ${l.name}${l.size?" "+l.size:""}: ${n}\n`)}};
+  if(!x.count)s+="\nEverything arrived.\n";sec("SHORT AT WHOLESALER",x.short);sec("LOST BETWEEN PICKUP AND STORE",x.lost);sec("EXTRA RECEIVED",x.extra);
+  [r.pickup,r.store].forEach(c=>{if(c&&c.note)s+=`\nNote: ${c.note}\n`});return s.trim()}
+async function readReceipt(blob,o){
+  const list=(o.lines||[]).map((l,i)=>`${i} | ${l.name} | ${l.size||""} | ${l.unit||""} | ordered ${l.qty}`).join("\n");
+  const prompt=`This is a photo of a wholesaler's receipt or invoice for a liquor store order. Match each product on the receipt to the order lines below and read the quantity received. Quantities may be in cases or units; use the same unit as the order line when you can tell, otherwise the number printed.
+Reply with ONLY JSON: {"lines":[{"i":order line index,"qty":number}],"extras":[{"name":"product on the receipt that matches no order line","qty":number}]}
+Leave out order lines that are not on the receipt.
+Order lines (index | name | size | unit | ordered):
+${list}`;
+  return await sample.json(prompt,{images:[blob]})}
+function receive(id,stage){
+  const o=orders.find(x=>x.id===id);if(!o)return;if(!who){pickWho(true);return}
+  const r=o.receiving||{};stage=stage||(r.pickup?"store":"pickup");
+  const prev=(stage==="store"?(r.store||r.pickup):r.pickup);
+  let qty=(o.lines||[]).map((l,i)=>prev&&prev.qty?(prev.qty[i]??0):0),extras=[];
+  const s=openSheet(`${head(t("recvTitle"),fmtDate(o.createdAt)+" · "+orderBy(o))}
+   <div class="tabs" role="tablist"><button id="rv-p" role="tab" aria-selected="${stage==="pickup"}">${esc(t("atPickup"))}</button><button id="rv-s" role="tab" aria-selected="${stage==="store"}">${esc(t("atStore"))}</button></div>
+   <p class="sub" style="margin:0">${esc(t(stage==="pickup"?"atPickupSub":"atStoreSub"))}</p>
+   <div class="btns"><button class="btn ghost" id="rv-all">${esc(t("allHere"))}</button>${sample?`<button class="btn ghost" id="rv-rc">${esc(t("receipt"))}</button>`:""}</div>
+   <input type="file" id="rv-file" accept="image/*" capture="environment" hidden>
+   <div id="rv-msg"></div><div id="rv-lines"></div>
+   <label class="field">${esc(t("recvNote"))}<textarea id="rv-note" rows="2" placeholder="${esc(t("recvNotePh"))}"></textarea></label>
+   <div class="btns"><button class="btn ghost" data-close>${esc(t("cancel"))}</button><button class="btn" id="rv-save">${esc(t("save"))}</button></div>`);
+  const draw=()=>{s.querySelector("#rv-lines").innerHTML=(o.lines||[]).map((l,i)=>`<div class="rline"><span class="t"><b>${esc(l.name)} ${esc(l.size||"")}</b><small>${esc(t("orderedN",{n:l.qty}))} · </small>${lineFlag(l.qty,qty[i])}</span><div class="step"><button data-rd="${i}" aria-label="−1">−</button><output>${qty[i]}</output><button class="plus" data-ri="${i}" aria-label="+1">+</button></div></div>`).join("")+
+    (extras.length?`<div class="rsum"><h3>${esc(t("receiptExtra"))}</h3>${extras.map(x=>`<div>${esc(x.name)} · <b>${esc(x.qty)}</b></div>`).join("")}</div>`:"")};
+  draw();
+  s.querySelector("#rv-lines").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;const i=+(b.dataset.ri??b.dataset.rd);qty[i]=Math.max(0,qty[i]+(b.dataset.ri!==undefined?1:-1));draw()});
+  s.querySelector("#rv-all").onclick=()=>{qty=(o.lines||[]).map(l=>l.qty||0);draw()};
+  s.querySelector("#rv-p").onclick=()=>receive(id,"pickup");s.querySelector("#rv-s").onclick=()=>receive(id,"store");
+  const rc=s.querySelector("#rv-rc");if(rc){rc.onclick=()=>s.querySelector("#rv-file").click();
+    s.querySelector("#rv-file").onchange=async e=>{const f=e.target.files[0];e.target.value="";if(!f)return;const msg=s.querySelector("#rv-msg");msg.innerHTML=thinking(t("receiptReading"));
+      try{const {img}=await loadImg(f);const res=await readReceipt(await shrink(img),o);qty=(o.lines||[]).map(()=>0);(res.lines||[]).forEach(x=>{const i=+x.i;if(i>=0&&i<qty.length)qty[i]=Math.max(0,Math.round(+x.qty||0))});extras=Array.isArray(res.extras)?res.extras:[];draw();msg.innerHTML=`<p class="note">${esc(t("receiptDone"))}</p>`}
+      catch(err){msg.innerHTML=`<p class="note">${esc(sampleErr(err))}</p>`}}}
+  s.querySelector("#rv-save").onclick=async e=>{e.target.disabled=true;
+    const cp={by:who,byId:meId||"",at:Date.now(),qty,note:s.querySelector("#rv-note").value.trim(),extras};
+    const upd={receiving:{[stage]:cp}};
+    if(stage==="store"){const o2={...o,receiving:{...(o.receiving||{}),store:cp}};const x=recvSummary(o2);upd.status="received";upd.issues=x.count}
+    else if(o.status==="sent")upd.status="ordered";
+    try{await db.doc("orders/"+id).update(upd);
+      if(stage==="store"){const o2={...o,...upd,receiving:{...(o.receiving||{}),store:cp}};showResult(o2)}else{closeSheet();toast(t("pickupSaved"))}}
+    catch(err){e.target.disabled=false;toast(t("recvErr"))}}}
+function showResult(o){const x=recvSummary(o);if(!x)return;
+  const s=openSheet(head(t("resultTitle"),x.count?t("withIssues",{n:x.count}):"")+summaryHtml(o,x)+`<textarea class="copy" id="rs-txt" readonly>${esc(summaryText(o,x))}</textarea><div class="btns"><button class="btn ghost" id="rs-copy">${esc(t("copy"))}</button><button class="btn" data-close>${esc(t("done"))}</button></div>`);
+  s.querySelector("#rs-copy").onclick=()=>copy(s.querySelector("#rs-txt"))}
+
 // ---------- render ----------
 function applyStatic(){document.documentElement.lang=lang;document.querySelectorAll("[data-t]").forEach(el=>el.textContent=t(el.dataset.t));$("#q").placeholder=t("search");
   $("#lang-es").setAttribute("aria-pressed",lang==="es");$("#lang-en").setAttribute("aria-pressed",lang==="en");
@@ -413,14 +493,19 @@ function orderBy(o){return o.byLabel||(o.createdBy&&profiles[o.createdBy]&&profi
 async function renderOrders(){
   $("#ofilter").innerHTML=[["",t("everyone")],...STAFF.map(p=>[p.name,p.name])].map(([v,l])=>`<button class="chip" data-of="${esc(v)}" aria-pressed="${v===ofilter}">${esc(l)}</button>`).join("");
   if(user&&user.profiles){try{const ids=[...new Set(orders.filter(o=>!o.byLabel).map(o=>o.createdBy).filter(Boolean))];if(ids.length)Object.assign(profiles,await user.profiles(ids))}catch(e){}}
-  const list=ofilter?orders.filter(o=>(o.byLabel||"")===ofilter):orders;
-  if(!list.length){$("#orders").innerHTML=`<div class="empty">${esc(ofilter?t("noOrdersBy",{p:ofilter}):t("noOrders"))}</div>`;return}
+  $("#ostat").innerHTML=[["open",t("toReceive")],["filed",t("filed")],["all",t("all")]].map(([v,l])=>`<button class="chip" data-os="${v}" aria-pressed="${v===ostat}">${esc(l)}</button>`).join("");
+  let list=ofilter?orders.filter(o=>(o.byLabel||"")===ofilter):orders;
+  if(ostat==="open")list=list.filter(o=>o.status!=="received");else if(ostat==="filed")list=list.filter(o=>o.status==="received");
+  if(!list.length){$("#orders").innerHTML=`<div class="empty">${esc(ofilter?t("noOrdersBy",{p:ofilter}):ostat==="open"&&orders.length?t("noOpen"):ostat==="filed"?t("noFiled"):t("noOrders"))}</div>`;return}
   $("#orders").innerHTML=list.map(o=>{const units=(o.lines||[]).reduce((a,l)=>a+(l.qty||0),0);
     const shownNote=lang==="es"&&o.noteOriginal?o.noteOriginal:o.note;
     return `<article class="order"><div class="top"><div><b>${esc(fmtDate(o.createdAt))}</b><div class="meta">${esc(orderBy(o))} · ${(o.lines||[]).length} ${esc(t("items"))} · ${units} ${esc(t("units"))}</div></div><span class="pill ${esc(o.status)}">${esc(t(o.status))}</span></div>
     ${shownNote?`<div class="note">${esc(t("note"))}: ${esc(shownNote)}</div>`:""}
+    ${o.receiving?.pickup?`<div class="rmeta">${esc(t("pickedBy",{p:o.receiving.pickup.by||"?",when:whenWord(o.receiving.pickup.at)}))}</div>`:""}
+    ${o.receiving?.store?`<div class="rmeta">${esc(t("recvBy",{p:o.receiving.store.by||"?",when:whenWord(o.receiving.store.at)}))} · ${o.issues?`<b>${esc(t("issuesTag",{n:o.issues}))}</b>`:`<span style="color:var(--ok);font-weight:600">${esc(t("noIssues"))}</span>`}</div>`:""}
     <details><summary>${esc(t("seeItems"))}</summary><textarea class="copy" readonly id="t-${o.id}">${esc(orderText(o))}</textarea></details>
     ${canWrite?`<div class="status">${["sent","ordered","received"].map(st=>`<button data-st="${st}" data-o="${o.id}" aria-pressed="${o.status===st}">${esc(t(st))}</button>`).join("")}</div>`:""}
+    ${canWrite?(o.receiving?.store?`<button class="btn ghost" data-res="${o.id}">${esc(t("viewResult"))}</button>`:`<button class="btn" data-recv="${o.id}">${esc(t("receive"))}</button>`):""}
     <div class="btns"><button class="btn ghost" data-copy="${o.id}">${esc(t("copy"))}</button><button class="btn ghost" data-again="${o.id}">${esc(t("again"))}</button></div></article>`}).join("")}
 function tabCount(){const n=orders.filter(o=>o.status==="sent").length;$("#tab-history").textContent=t("sentOrders")+(n?` (${n})`:"")}
 function rerender(){applyStatic();tabCount();renderCatalog();renderBar();if(!$("#view-history").hidden)renderOrders()}
@@ -429,6 +514,7 @@ function rerender(){applyStatic();tabCount();renderCatalog();renderBar();if(!$("
 $("#catalog").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;const id=b.dataset.inc||b.dataset.add||b.dataset.dec;if(!id)return;if(b.dataset.dec)setQty(id,(cart[id]||0)-1);else addItem(id)});
 $("#chips").addEventListener("click",e=>{const b=e.target.closest("[data-c]");if(b){cat=b.dataset.c;renderCatalog()}});
 $("#ofilter").addEventListener("click",e=>{const b=e.target.closest("[data-of]");if(b){ofilter=b.dataset.of;renderOrders()}});
+$("#ostat").addEventListener("click",e=>{const b=e.target.closest("[data-os]");if(b){ostat=b.dataset.os;renderOrders()}});
 $("#q").addEventListener("input",renderCatalog);
 $("#btn-add").onclick=()=>itemForm({name:$("#q").value.trim()});
 $("#btn-review").onclick=review;
@@ -441,6 +527,8 @@ $("#tab-order").onclick=()=>{location.hash="order";show("order")};$("#tab-histor
 addEventListener("hashchange",()=>show(location.hash==="#history"?"history":"order"));
 $("#orders").addEventListener("click",async e=>{const b=e.target.closest("button");if(!b)return;
   if(b.dataset.st){try{await db.doc("orders/"+b.dataset.o).update({status:b.dataset.st})}catch(err){toast(t("statusErr"))}}
+  if(b.dataset.recv){receive(b.dataset.recv,null)}
+  if(b.dataset.res){const o=orders.find(x=>x.id===b.dataset.res);if(o)showResult(o)}
   if(b.dataset.copy){const d=b.closest(".order").querySelector("details");d.open=true;copy($("#t-"+b.dataset.copy))}
   if(b.dataset.again){const o=orders.find(x=>x.id===b.dataset.again);let n=0;(o.lines||[]).forEach(l=>{if(items.some(i=>i.id===l.itemId)){cart[l.itemId]=l.qty;n++}});saveCart();location.hash="order";show("order");renderCatalog();toast(t("loadedAgain",{n}))}});
 
