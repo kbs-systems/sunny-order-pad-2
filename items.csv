@@ -1,431 +1,443 @@
-id,name,size,unit,category,subcategory,brand,sku,barcode,vendor,cost,price,source
-1800-reposado-375,1800 Reposado,375 ml,Bottle,Spirits,,,,,,,,Starter list
-absolut-wild-berri,Absolut Wild Berri,,Bottle,Spirits,,,,,,,,Starter list
-casamigos-blanco,Casamigos Blanco,,Bottle,Spirits,,,,,,,,Starter list
-casamigos-reposado-750,Casamigos Reposado,750 ml,Bottle,Spirits,,,,,,,,Starter list
-codigo-1530-blanco-750,Código 1530 Blanco,750 ml,Bottle,Spirits,,,,,,,,Starter list
-don-julio-blanco-375,Don Julio Blanco,375 ml,Bottle,Spirits,,,,,,,,Starter list
-don-julio-reposado-375,Don Julio Reposado,375 ml,Bottle,Spirits,,,,,,,,Starter list
-espolon-blanco-375,Espolòn Blanco,375 ml,Bottle,Spirits,,,,,,,,Starter list
-hornitos-reposado-200,Hornitos Reposado,200 ml,Bottle,Spirits,,,,,,,,Starter list
-hornitos-reposado-375,Hornitos Reposado,375 ml,Bottle,Spirits,,,,,,,,Starter list
-jack-daniels-200,Jack Daniel's Old No. 7,200 ml,Bottle,Spirits,,,,,,,,Starter list
-jack-daniels-375,Jack Daniel's Old No. 7,375 ml,Bottle,Spirits,,,,,,,,Starter list
-jack-daniels-750,Jack Daniel's Old No. 7,750 ml,Bottle,Spirits,,,,,,,,Starter list
-cuervo-especial-gold-200,Jose Cuervo Especial Gold,200 ml,Bottle,Spirits,,,,,,,,Starter list
-titos-200,Tito's Handmade Vodka,200 ml,Bottle,Spirits,,,,,,,,Starter list
-titos-375,Tito's Handmade Vodka,375 ml,Bottle,Spirits,,,,,,,,Starter list
-titos-750,Tito's Handmade Vodka,750 ml,Bottle,Spirits,,,,,,,,Starter list
-asahi-6pk,Asahi,6 pk,Bottle,Beer & Seltzer,,,,,,,,Starter list
-bud-light-lime-25,Bud Light Lime,25 oz,Can,Beer & Seltzer,,,,,,,,Starter list
-cayman-jack-margarita,Cayman Jack Margarita,17 oz,Can,Beer & Seltzer,,,,,,,,Starter list
-cayman-jack-strawberry,Cayman Jack Margarita Strawberry,17 oz,Can,Beer & Seltzer,,,,,,,,Starter list
-famosa-24,Famosa,24 oz,Can,Beer & Seltzer,,,,,,,,Starter list
-mikes-hurricane-punch-24,Mike's Harder Hurricane Punch,24 oz,Can,Beer & Seltzer,,,,,,,,Starter list
-ritas-lime-a-rita-25,Rita's Lime-A-Rita,25 oz,Can,Beer & Seltzer,,,,,,,,Starter list
-ritas-straw-ber-rita-25,Rita's Straw-Ber-Rita,25 oz,Can,Beer & Seltzer,,,,,,,,Starter list
-sapporo-24,Sapporo,24 oz,Can,Beer & Seltzer,,,,,,,,Starter list
-sapporo-6pk,Sapporo,6 pk,Bottle,Beer & Seltzer,,,,,,,,Starter list
-steel-reserve-cherry-slushie-24,Steel Reserve Spiked Cherry Slushie,24 oz,Can,Beer & Seltzer,,,,,,,,Starter list
-twisted-tea-peach-25,Twisted Tea Peach,25 oz,Can,Beer & Seltzer,,,,,,,,Starter list
-twisted-tea-pineapple-25,Twisted Tea Pineapple,25 oz,Can,Beer & Seltzer,,,,,,,,Starter list
-twisted-tea-raspberry-25,Twisted Tea Raspberry,25 oz,Can,Beer & Seltzer,,,,,,,,Starter list
-white-claw-variety-1,White Claw Variety Pack #1,,Pack,Beer & Seltzer,,,,,,,,Starter list
-white-claw-variety-2,White Claw Variety Pack #2,,Pack,Beer & Seltzer,,,,,,,,Starter list
-white-claw-variety-3,White Claw Variety Pack #3,,Pack,Beer & Seltzer,,,,,,,,Starter list
-7up-20,7UP,20 oz,Bottle,Drinks,Soft Drinks / Soda,7UP,SL-0009-01,,,,,Photos/Handwritten
-sl-0069-01,Agua Fina,16 oz,Each,Drinks,Water / Sparkling Water,Agua Fina,SL-0069-01,,,,,Photos/Handwritten
-alo-mango-169,Aloe Vera Drink Mango,16.9 oz,Bottle,Drinks,,,,,,,,Starter list
-sl-0065-01,Aquafina Water,16 oz,Each,Drinks,Water / Sparkling Water,Aquafina,SL-0065-01,,,,,Photos/Handwritten
-sl-0043-01,Arizona Green Tea,1 L,Each,Drinks,Juice / Tea / Specialty,Arizona,SL-0043-01,,,,,Photos/Handwritten
-sl-0044-01,Arizona Iced Tea Assorted,Assorted,Each,Drinks,Juice / Tea / Specialty,Arizona,SL-0044-01,,,,,Photos/Handwritten
-sl-0042-01,Arizona Mango,1 L,Each,Drinks,Juice / Tea / Specialty,Arizona,SL-0042-01,,,,,Photos/Handwritten
-sl-0046-01,Brisk Fruit Punch,1 L,Each,Drinks,Juice / Tea / Specialty,Brisk,SL-0046-01,,,,,Photos/Handwritten
-sl-0045-01,Brisk Lemon Iced Tea,1 L,Each,Drinks,Juice / Tea / Specialty,Brisk,SL-0045-01,,,,,Photos/Handwritten
-sl-0047-01,Brisk Lemonade,1 L,Each,Drinks,Juice / Tea / Specialty,Brisk,SL-0047-01,,,,,Photos/Handwritten
-hl-1101-31,Calypso Original Lemonade,16 oz,Bottle,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026"
-sl-0011-01,Canada Dry,1 L,Each,Drinks,Soft Drinks / Soda,Canada Dry,SL-0011-01,,,,,Photos/Handwritten
-sl-0012-01,Canada Dry Club Soda,10 oz,Each,Drinks,Soft Drinks / Soda,Canada Dry,SL-0012-01,,,,,Photos/Handwritten
-sl-0025-01,Celsius,12 oz,Each,Drinks,Energy Drinks,Celsius,SL-0025-01,,,,,Photos/Handwritten
-clamato-original-16,Clamato Original,16 oz,Bottle,Drinks,,,,,,,,Starter list
-clamato-picante-16,Clamato Picante,16 oz,Bottle,Drinks,,,,,,,,Starter list
-sl-0049-01,Clamato Picante,32 oz,Each,Drinks,Juice / Tea / Specialty,Clamato,SL-0049-01,,,,,Photos/Handwritten
-sl-0048-01,Clamato Regular,10 oz,Each,Drinks,Juice / Tea / Specialty,Clamato,SL-0048-01,,,,,Photos/Handwritten
-sl-0048-02,Clamato Regular,32 oz,Each,Drinks,Juice / Tea / Specialty,Clamato,SL-0048-02,,,,,Photos/Handwritten
-sl-0001-04,Coca-Cola,1 L,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0001-04,,,,,Photos/Handwritten
-sl-0001-01,Coca-Cola,12 oz,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0001-01,,,,,Photos/Handwritten
-sl-0001-02,Coca-Cola,16 oz,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0001-02,,,,,Photos/Handwritten
-sl-0001-05,Coca-Cola,2 L,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0001-05,,,,,Photos/Handwritten
-coca-cola-20,Coca-Cola,20 oz,Bottle,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0001-03,,,,,Photos/Handwritten
-sl-0001-06,Coca-Cola,3 L,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0001-06,,,,,Photos/Handwritten
-sl-0002-01,Coca-Cola Vanilla,20 oz,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0002-01,,,,,Photos/Handwritten
-hl-1101-30,Coca-Cola Zero,12 oz,Can,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026"
-sl-0003-01,Coca-Cola Zero,20 oz,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0003-01,,,,,Photos/Handwritten
-sl-0061-01,Core Water,20 oz,Each,Drinks,Water / Sparkling Water,Core,SL-0061-01,,,,,Photos/Handwritten
-hl-1101-34,Crush Orange,2 L,Bottle,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026"
-sl-0060-02,Crystal Geyser Water,1 L,Each,Drinks,Water / Sparkling Water,Crystal Geyser,SL-0060-02,,,,,Photos/Handwritten
-sl-0060-01,Crystal Geyser Water,16 oz,Each,Drinks,Water / Sparkling Water,Crystal Geyser,SL-0060-01,,,,,Photos/Handwritten
-diet-coke-12,Diet Coke,12 oz,Can,Drinks,,,,,,,,Starter list
-hl-1101-37,Diet Coke,2 L,Bottle,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026"
-sl-0055-01,Electrolit Assorted,Various,Each,Drinks,Juice / Tea / Specialty,Electrolit,SL-0055-01,,,,,Photos/Handwritten
-sl-0062-01,Essentia Water,1 L,Each,Drinks,Water / Sparkling Water,Essentia,SL-0062-01,,,,,Photos/Handwritten
-sl-0062-02,Essentia Water,1.5 L,Each,Drinks,Water / Sparkling Water,Essentia,SL-0062-02,,,,,Photos/Handwritten
-sl-0064-01,Evian Water,1.5 L,Each,Drinks,Water / Sparkling Water,Evian,SL-0064-01,,,,,Photos/Handwritten
-sl-0005-01,Fanta Orange,12 oz,Each,Drinks,Soft Drinks / Soda,Fanta,SL-0005-01,,,,,Photos/Handwritten
-sl-0005-03,Fanta Orange,2 L,Each,Drinks,Soft Drinks / Soda,Fanta,SL-0005-03,,,,,Photos/Handwritten
-sl-0005-02,Fanta Orange,20 oz,Each,Drinks,Soft Drinks / Soda,Fanta,SL-0005-02,,,,,Photos/Handwritten
-sl-0005-04,Fanta Orange,3 L,Each,Drinks,Soft Drinks / Soda,Fanta,SL-0005-04,,,,,Photos/Handwritten
-sl-0007-01,Fanta Pineapple,12 oz,Each,Drinks,Soft Drinks / Soda,Fanta,SL-0007-01,,,,,Photos/Handwritten
-fanta-pineapple-20,Fanta Pineapple,20 oz,Bottle,Drinks,,,,,,,,Starter list
-sl-0006-01,Fanta Strawberry,12 oz,Each,Drinks,Soft Drinks / Soda,Fanta,SL-0006-01,,,,,Photos/Handwritten
-sl-0063-01,Fiji Water,1.5 L,Each,Drinks,Water / Sparkling Water,Fiji,SL-0063-01,,,,,Photos/Handwritten
-sl-0032-01,Gatorade Cool Blue,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0032-01,,,,,Photos/Handwritten
-sl-0030-01,Gatorade Fruit Punch,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0030-01,,,,,Photos/Handwritten
-sl-0035-01,Gatorade Glacier Cherry,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0035-01,,,,,Photos/Handwritten
-sl-0033-01,Gatorade Grape,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0033-01,,,,,Photos/Handwritten
-sl-0034-01,Gatorade Green Apple,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0034-01,,,,,Photos/Handwritten
-sl-0031-01,Gatorade Lemon Pepino,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0031-01,,,,,Photos/Handwritten
-gatorade-orange-20,Gatorade Orange,20 oz,Bottle,Drinks,Sports Drinks,Gatorade,SL-0029-01,,,,,Photos/Handwritten
-sl-0036-01,Gatorade Pepino Cucumber,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0036-01,,,,,Photos/Handwritten
-sl-0024-01,Ghost Energy,16 oz,Each,Drinks,Energy Drinks,Ghost,SL-0024-01,,,,,Photos/Handwritten
-jarritos-mineral-20,Jarritos Agua Mineral (plastic),20 oz,Bottle,Drinks,,,,,,,,Starter list
-sl-0017-01,Jarritos Mineragua,1.5 L,Each,Drinks,Soft Drinks / Soda,Jarritos,SL-0017-01,,,,,Photos/Handwritten
-sl-0040-01,Jumex Mango,Can,Each,Drinks,Juice / Tea / Specialty,Jumex,SL-0040-01,,,,,Photos/Handwritten
-jumex-strawberry-banana,Jumex Strawberry Banana,32.4 oz,Can,Drinks,,,,,,,,Starter list
-sl-0018-01,Manzanita Sol,2 L,Each,Drinks,Soft Drinks / Soda,Manzanita Sol,SL-0018-01,,,,,Photos/Handwritten
-sl-0037-01,Minute Maid Lemonade,2 L,Each,Drinks,Juice / Tea / Specialty,Minute Maid,SL-0037-01,,,,,Photos/Handwritten
-minute-maid-pink-lemonade,Minute Maid Pink Lemonade,2 L,Bottle,Drinks,Juice / Tea / Specialty,Minute Maid,SL-0038-01,,,,,Photos/Handwritten
-sl-0019-01,Monster Energy,16 oz,Each,Drinks,Energy Drinks,Monster,SL-0019-01,,,,,Photos/Handwritten
-sl-0020-01,Monster Regular,24 oz,Each,Drinks,Energy Drinks,Monster,SL-0020-01,,,,,Photos/Handwritten
-sl-0021-01,Monster Zero Ultra,16 oz,Each,Drinks,Energy Drinks,Monster,SL-0021-01,,,,,Photos/Handwritten
-sl-0052-01,Nesquik Chocolate,14 oz,Each,Drinks,Juice / Tea / Specialty,Nesquik,SL-0052-01,,,,,Photos/Handwritten
-sl-0053-01,Nesquik Strawberry,14 oz,Each,Drinks,Juice / Tea / Specialty,Nesquik,SL-0053-01,,,,,Photos/Handwritten
-sl-0054-01,Nesquik Vanilla,14 oz,Each,Drinks,Juice / Tea / Specialty,Nesquik,SL-0054-01,,,,,Photos/Handwritten
-sl-0059-01,Niagara Water,16 oz,Each,Drinks,Water / Sparkling Water,Niagara,SL-0059-01,,,,,Photos/Handwritten
-niagara-water,Niagara Water,16.9 oz,Bottle,Drinks,Water / Sparkling Water,Niagara,SL-0059-02,,,,,Photos/Handwritten
-sl-0059-03,Niagara Water,Gallon,Each,Drinks,Water / Sparkling Water,Niagara,SL-0059-03,,,,,Photos/Handwritten
-sl-0051-01,Parrot Coconut,11.5 oz,Each,Drinks,Juice / Tea / Specialty,Parrot,SL-0051-01,,,,,Photos/Handwritten
-sl-0051-02,Parrot Coconut,16.9 oz,Each,Drinks,Juice / Tea / Specialty,Parrot,SL-0051-02,,,,,Photos/Handwritten
-sl-0058-01,Pedialyte Grape,33.8 oz,Each,Drinks,Juice / Tea / Specialty,Pedialyte,SL-0058-01,,,,,Photos/Handwritten
-sl-0056-01,Pedialyte Mixed Fruit,33.8 oz,Each,Drinks,Juice / Tea / Specialty,Pedialyte,SL-0056-01,,,,,Photos/Handwritten
-sl-0057-01,Pedialyte Strawberry,33.8 oz,Each,Drinks,Juice / Tea / Specialty,Pedialyte,SL-0057-01,,,,,Photos/Handwritten
-hl-1101-29,Pedialyte Unflavored,33.8 oz,Bottle,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026"
-sl-0066-01,Pellegrino Mineral Water,16 oz,Each,Drinks,Water / Sparkling Water,Pellegrino,SL-0066-01,,,,,Photos/Handwritten
-sl-0010-03,Pepsi,1 L,Each,Drinks,Soft Drinks / Soda,Pepsi,SL-0010-03,,,,,Photos/Handwritten
-sl-0010-01,Pepsi,16 oz,Each,Drinks,Soft Drinks / Soda,Pepsi,SL-0010-01,,,,,Photos/Handwritten
-pepsi-2l,Pepsi,2 L,Bottle,Drinks,,,,,,,,Starter list
-pepsi-20,Pepsi,20 oz,Bottle,Drinks,Soft Drinks / Soda,Pepsi,SL-0010-02,,,,,Photos/Handwritten
-pepsi-3l,Pepsi,3 L,Bottle,Drinks,,,,,,,,Starter list
-sl-0067-01,Perrier Lime,16 oz,Each,Drinks,Water / Sparkling Water,Perrier,SL-0067-01,,,,,Photos/Handwritten
-powerade-orange-20,Powerade Orange,20 oz,Bottle,Drinks,,,,,,,,Starter list
-red-bull-16,Red Bull,16 oz,Can,Drinks,,,,,,,,Starter list
-red-bull-84,Red Bull,8.4 oz,Can,Drinks,Energy Drinks,Red Bull,SL-0022-01,,,,,Photos/Handwritten
-sl-0022-02,Red Bull Regular,12 oz,Each,Drinks,Energy Drinks,Red Bull,SL-0022-02,,,,,Photos/Handwritten
-sl-0023-01,Red Bull Yellow Edition Tropical,12 oz,Each,Drinks,Energy Drinks,Red Bull,SL-0023-01,,,,,Photos/Handwritten
-hl-1101-36,Shasta Black Cherry,12 oz,Can,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026"
-sl-0013-01,Shasta Cola,12 oz,Each,Drinks,Soft Drinks / Soda,Shasta,SL-0013-01,,,,,Photos/Handwritten
-sl-0014-01,Shasta Grape,12 oz,Each,Drinks,Soft Drinks / Soda,Shasta,SL-0014-01,,,,,Photos/Handwritten
-sl-0016-01,Shasta Lemon,12 oz,Each,Drinks,Soft Drinks / Soda,Shasta,SL-0016-01,,,,,Photos/Handwritten
-sl-0015-01,Shasta Tiki Punch,12 oz,Each,Drinks,Soft Drinks / Soda,Shasta,SL-0015-01,,,,,Photos/Handwritten
-smartwater-20,Smartwater,20 oz,Bottle,Drinks,,,,,,,,Starter list
-sl-0041-01,Soya Mango Carrot,20–23 oz,Each,Drinks,Juice / Tea / Specialty,Soya,SL-0041-01,,,,,Photos/Handwritten
-sl-0004-03,Sprite,1 L,Each,Drinks,Soft Drinks / Soda,Sprite,SL-0004-03,,,,,Photos/Handwritten
-sl-0004-01,Sprite,16 oz,Each,Drinks,Soft Drinks / Soda,Sprite,SL-0004-01,,,,,Photos/Handwritten
-sl-0004-04,Sprite,2 L,Each,Drinks,Soft Drinks / Soda,Sprite,SL-0004-04,,,,,Photos/Handwritten
-sprite-20,Sprite,20 oz,Bottle,Drinks,Soft Drinks / Soda,Sprite,SL-0004-02,,,,,Photos/Handwritten
-sl-0008-03,Squirt,1 L,Each,Drinks,Soft Drinks / Soda,Squirt,SL-0008-03,,,,,Photos/Handwritten
-sl-0008-01,Squirt,16 oz,Each,Drinks,Soft Drinks / Soda,Squirt,SL-0008-01,,,,,Photos/Handwritten
-sl-0008-04,Squirt,2 L,Each,Drinks,Soft Drinks / Soda,Squirt,SL-0008-04,,,,,Photos/Handwritten
-sl-0008-02,Squirt,20 oz,Each,Drinks,Soft Drinks / Soda,Squirt,SL-0008-02,,,,,Photos/Handwritten
-hl-1101-35,Squirt Mexicano,355 ml,Bottle,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026"
-frappuccino-coffee-137,Starbucks Frappuccino Coffee (regular),13.7 oz,Bottle,Drinks,,,,,,,,Starter list
-frappuccino-mocha-137,Starbucks Frappuccino Mocha,13.7 oz,Bottle,Drinks,,,,,,,,Starter list
-sl-0039-03,Sunny D Orange,11.5 oz,Each,Drinks,Juice / Tea / Specialty,Sunny D,SL-0039-03,,,,,Photos/Handwritten
-sl-0039-01,Sunny D Orange,64 oz,Each,Drinks,Juice / Tea / Specialty,Sunny D,SL-0039-01,,,,,Photos/Handwritten
-sl-0039-04,Sunny D Orange,8.5 oz,Each,Drinks,Juice / Tea / Specialty,Sunny D,SL-0039-04,,,,,Photos/Handwritten
-sl-0039-02,Sunny D Orange,Gallon,Each,Drinks,Juice / Tea / Specialty,Sunny D,SL-0039-02,,,,,Photos/Handwritten
-sl-0068-01,Topo Chico Mineral Water,12 oz,Each,Drinks,Water / Sparkling Water,Topo Chico,SL-0068-01,,,,,Photos/Handwritten
-hl-1101-33,Toucan Coconut Milk Drink Original,9.8 oz,Can,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026"
-hl-1101-32,Toucan Coconut Milk Drink Strawberry,9.8 oz,Can,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026"
-sl-0050-01,V8 Original,11.5 oz,Each,Drinks,Juice / Tea / Specialty,V8,SL-0050-01,,,,,Photos/Handwritten
-sl-0026-02,Vitamin Water Energy,32 oz,Each,Drinks,Energy Drinks,Vitamin Water,SL-0026-02,,,,,Photos/Handwritten
-sl-0027-01,Vitamin Water Power-C,20 oz,Each,Drinks,Energy Drinks,Vitamin Water,SL-0027-01,,,,,Photos/Handwritten
-sl-0028-01,Vitamin Water XXX,20 oz,Each,Drinks,Energy Drinks,Vitamin Water,SL-0028-01,,,,,Photos/Handwritten
-vitaminwater-energy-20,Vitaminwater Energy,20 oz,Bottle,Drinks,Energy Drinks,Vitamin Water,SL-0026-01,,,,,Photos/Handwritten
-sl-0147-01,Arachi Large Peanuts,,Each,Snacks,Nuts / Seeds,Arachi,SL-0147-01,,,,,Photos/Handwritten
-sl-0110-01,Baken-Ets Chicharrones,,Each,Snacks,Chips,Baken-Ets,SL-0110-01,,,,,Photos/Handwritten
-sp-1103b-39,Baken-Ets Chicharrones Hot 'n Spicy,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-10,Bimbo Bimbuñuelos,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-11,Bimbo Crossantines Minis Hershey's,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-08,Bimbo Cuernitos,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-13,Bimbo Donas,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-06,Bimbo Doraditas,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-12,Bimbo Mini Mantecadas (assorted),,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-05,Bimbo Nito Duo,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-01,Bimbo Panqué Pound Cake,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-02,Bimbo Panqué with Pecans,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-03,Bimbo Panqué with Raisins,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-09,Bimbo Rebanadas,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-04,Bimbo Roles Cinnamon Rolls,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sl-0125-01,Bon Appetit Banana Bread,,Each,Snacks,Sweet Snacks / Bakery,Bon Appetit,SL-0125-01,,,,,Photos/Handwritten
-hl-1101-17,Bon Appetit Banana Nut Muffin,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026"
-hl-1101-16,Bon Appetit Bear Claw,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026"
-sl-0124-01,Bon Appetit Blueberry Muffin,,Each,Snacks,Sweet Snacks / Bakery,Bon Appetit,SL-0124-01,,,,,Photos/Handwritten
-sl-0126-01,Bon Appetit Cheese & Berries,,Each,Snacks,Sweet Snacks / Bakery,Bon Appetit,SL-0126-01,,,,,Photos/Handwritten
-hl-1101-18,Bon Appetit Concha Sweetie Roll,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026"
-sl-0123-01,Bon Appetit Lemon Cake,,Each,Snacks,Sweet Snacks / Bakery,Bon Appetit,SL-0123-01,,,,,Photos/Handwritten
-sl-0122-01,Bon Appetit Marble Cake,,Each,Snacks,Sweet Snacks / Bakery,Bon Appetit,SL-0122-01,,,,,Photos/Handwritten
-sl-0121-01,Bon Appetit Strawberry Cheese Muffin,,Each,Snacks,Sweet Snacks / Bakery,Bon Appetit,SL-0121-01,,,,,Photos/Handwritten
-sl-0077-01,Cheetos Crunchy,,Each,Snacks,Chips,Cheetos,SL-0077-01,,,,,Photos/Handwritten
-sp-1103c-02,Cheetos Crunchy Cheddar Jalapeño,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026 (chip rack)"
-sl-0080-01,Cheetos Crunchy Jalapeño Cheddar XXL,,Each,Snacks,Chips,Cheetos,SL-0080-01,,,,,Photos/Handwritten
-sp-1103b-30,Cheetos Flamin' Hot Limón,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sl-0078-01,Cheetos Flamin’ Hot,,Each,Snacks,Chips,Cheetos,SL-0078-01,,,,,Photos/Handwritten
-sl-0079-01,Cheetos Puffs,,Each,Snacks,Chips,Cheetos,SL-0079-01,,,,,Photos/Handwritten
-cheetos-xxtra-flamin-hot,Cheetos XXTRA Flamin' Hot,,Each,Snacks,,,,,,,,Starter list
-sp-1103-10,Cheez-It Original (Grab & Go),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sp-1103-11,Cheez-It Pepper Jack (Grab & Go),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-hl-1101-08,Cheez-It White Cheddar,3 oz,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026"
-sl-0081-01,Chester’s Hot Fries,,Each,Snacks,Chips,Chester’s,SL-0081-01,,,,,Photos/Handwritten
-sl-0082-01,Chester’s Puffcorn Flamin’ Hot,,Each,Snacks,Chips,Chester’s,SL-0082-01,,,,,Photos/Handwritten
-hl-1101-10,Corn Nuts Chile Picante,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026"
-sp-1103b-25,Corn Nuts Ranch,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sl-0142-01,David Sunflower Seeds,,Each,Snacks,Nuts / Seeds,David,SL-0142-01,,,,,Photos/Handwritten
-sp-1103b-35,David Sunflower Seeds Bar-B-Q Jumbo,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-36,David Sunflower Seeds Ranch Jumbo,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-32,Don David Habas,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-don-david-peanuts,Don David Peanuts Sal y Limón,,Each,Snacks,Nuts / Seeds,Don David,SL-0143-01,,,,,Photos/Handwritten
-sl-0074-01,Doritos Cool Ranch,,Each,Snacks,Chips,Doritos,SL-0074-01,,,,,Photos/Handwritten
-sl-0075-01,Doritos Dinamita Chile Limón,,Each,Snacks,Chips,Doritos,SL-0075-01,,,,,Photos/Handwritten
-sl-0076-01,Doritos Dinamita Queso,,Each,Snacks,Chips,Doritos,SL-0076-01,,,,,Photos/Handwritten
-sl-0071-01,Doritos Flamas,,Each,Snacks,Chips,Doritos,SL-0071-01,,,,,Photos/Handwritten
-sp-1103b-38,Doritos Flamin' Hot Nacho,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sl-0070-01,Doritos Nacho,,Each,Snacks,Chips,Doritos,SL-0070-01,,,,,Photos/Handwritten
-sl-0072-01,Doritos Salsa Verde,,Each,Snacks,Chips,Doritos,SL-0072-01,,,,,Photos/Handwritten
-sl-0073-01,Doritos Tapatío,,Each,Snacks,Chips,Doritos,SL-0073-01,,,,,Photos/Handwritten
-el-sabroso-guacachips,El Sabroso Original Guacachips (Guacamole),,Each,Snacks,Chips,El Sabroso,SL-0111-01,,,,,Photos/Handwritten
-el-sabroso-salsitas,El Sabroso Salsitas,,Each,Snacks,Chips,El Sabroso,SL-0112-01,,,,,Photos/Handwritten
-hl-1101-11,Famous Amos Chocolate Chip,2 oz,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026"
-sl-0085-01,Fritos BBQ Twists XXL,,Each,Snacks,Chips,Fritos,SL-0085-01,,,,,Photos/Handwritten
-sl-0084-01,Fritos Flamin’ Hot,,Each,Snacks,Chips,Fritos,SL-0084-01,,,,,Photos/Handwritten
-sl-0083-01,Fritos Regular,,Each,Snacks,Chips,Fritos,SL-0083-01,,,,,Photos/Handwritten
-sl-0086-01,Fritos Turbos Flamas,,Each,Snacks,Chips,Fritos,SL-0086-01,,,,,Photos/Handwritten
-sl-0088-01,Funyuns Flamin’ Hot,,Each,Snacks,Chips,Funyuns,SL-0088-01,,,,,Photos/Handwritten
-sl-0087-01,Funyuns Original,,Each,Snacks,Chips,Funyuns,SL-0087-01,,,,,Photos/Handwritten
-sl-0089-01,Funyuns Queso,,Each,Snacks,Chips,Funyuns,SL-0089-01,,,,,Photos/Handwritten
-sl-0129-02,Gansito,2-Pack,Each,Snacks,Sweet Snacks / Bakery,Gansito,SL-0129-02,,,,,Photos/Handwritten
-sl-0129-01,Gansito,Single,Each,Snacks,Sweet Snacks / Bakery,Gansito,SL-0129-01,,,,,Photos/Handwritten
-gansito-24,Gansito singles,24 pk,Pack,Snacks,,,,,,,,Starter list
-sp-1103c-01,Grandma's Chocolate Brownie Cookies,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026 (chip rack)"
-sp-1103b-28,Grandma's Vanilla Creme Sandwich Cookies,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sl-0127-01,Grandma’s Oatmeal Raisin,,Each,Snacks,Sweet Snacks / Bakery,Grandma’s,SL-0127-01,,,,,Photos/Handwritten
-sl-0128-01,Grandma’s Peanut Butter,,Each,Snacks,Sweet Snacks / Bakery,Grandma’s,SL-0128-01,,,,,Photos/Handwritten
-sl-0117-01,Hostess Birthday Cupcakes,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0117-01,,,,,Photos/Handwritten
-sl-0119-01,Hostess Chocolate Lovers Twinkies,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0119-01,,,,,Photos/Handwritten
-sl-0116-01,Hostess Cupcakes,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0116-01,,,,,Photos/Handwritten
-sl-0113-01,Hostess Iced Vanilla Zingers,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0113-01,,,,,Photos/Handwritten
-sl-0120-01,Hostess Jumbo Honey Bun Devils Food,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0120-01,,,,,Photos/Handwritten
-hl-1101-15,Hostess Jumbo Honey Bun Iced,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026"
-sl-0118-01,Hostess Mega Muffin Double Chocolate,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0118-01,,,,,Photos/Handwritten
-sl-0114-01,Hostess Powdered Mini Donuts,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0114-01,,,,,Photos/Handwritten
-sl-0115-01,Hostess Suzy Q Chocolate Cake,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0115-01,,,,,Photos/Handwritten
-sp-1103-03,Jack Link's Beef Steak Original,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-jack-links-sweet-hot,Jack Link's Beef Steak Sweet & Hot,,Each,Snacks,,,,,,,,Starter list
-sl-0133-01,Kebbler Sugar Wafers Strawberry Cookies,King Size,Each,Snacks,Sweet Snacks / Bakery,Kebbler,SL-0133-01,,,,,Photos/Handwritten
-sl-0132-01,Kellogg’s Apple Jacks,,Each,Snacks,Sweet Snacks / Bakery,Kellogg’s,SL-0132-01,,,,,Photos/Handwritten
-sl-0131-01,Kellogg’s Cocoa Krispies,,Each,Snacks,Sweet Snacks / Bakery,Kellogg’s,SL-0131-01,,,,,Photos/Handwritten
-sl-0130-01,Kellogg’s Corn Pops,,Each,Snacks,Sweet Snacks / Bakery,Kellogg’s,SL-0130-01,,,,,Photos/Handwritten
-sp-1103b-29,Knott's Berry Farm Strawberry Shortbread Cookies,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sl-0144-01,La Mexicana Peanuts,,Each,Snacks,Nuts / Seeds,La Mexicana,SL-0144-01,,,,,Photos/Handwritten
-sl-0146-01,La Moderna Mix Nut Bar,,Each,Snacks,Nuts / Seeds,La Moderna,SL-0146-01,,,,,Photos/Handwritten
-sp-1103-24,Laky Cup Noodles (assorted flavors),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sp-1103b-31,Lay's Sour Cream & Onion,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sl-0091-01,Lay’s BBQ,,Each,Snacks,Chips,Lay’s,SL-0091-01,,,,,Photos/Handwritten
-sl-0092-01,Lay’s Chile Limón,,Each,Snacks,Chips,Lay’s,SL-0092-01,,,,,Photos/Handwritten
-sl-0093-01,Lay’s Flamin’ Hot,,Each,Snacks,Chips,Lay’s,SL-0093-01,,,,,Photos/Handwritten
-sl-0094-01,Lay’s Limón,,Each,Snacks,Chips,Lay’s,SL-0094-01,,,,,Photos/Handwritten
-sl-0090-01,Lay’s Regular,,Each,Snacks,Chips,Lay’s,SL-0090-01,,,,,Photos/Handwritten
-sl-0095-01,Lay’s Sour Cream Onion XXL,,Each,Snacks,Chips,Lay’s,SL-0095-01,,,,,Photos/Handwritten
-sp-1103b-37,Lupag Dried Shrimp (camarón seco),,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sl-0148-01,Lupag Pecans,,Each,Snacks,Nuts / Seeds,Lupag,SL-0148-01,,,,,Photos/Handwritten
-lupag-whole-shrimp,Lupag Whole Shrimp (camarón entero),,Each,Snacks,,,,,,,,Starter list
-sl-0145-01,ManzelaZo Japanese Style Peanuts,5.2 oz,Each,Snacks,Nuts / Seeds,ManzelaZo,SL-0145-01,,,,,Photos/Handwritten
-sp-1103b-20,Marinela Barritas Strawberry,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-18,Marinela Butter Crowns,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-14,Marinela Choco Roles Pineapple,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-23,Marinela Cinnas Cinnamon,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-19,Marinela Napolitano Orange,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-16,Marinela Pingüinos,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-17,Marinela Pingüinos Hershey's,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-22,Marinela Polvorones Orange,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-21,Marinela Sponch,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-15,Marinela Submarinos Strawberry,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103-15,Maruchan Beef,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-hl-1101-26,Maruchan Chicken,,Each,Snacks,,,,,,,,"Handwritten list #2, 11/01/2026"
-sp-1103-18,Maruchan Chili Piquin & Shrimp,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sp-1103-14,Maruchan Hot & Spicy Chicken,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sp-1103-17,Maruchan Hot & Spicy Shrimp,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sp-1103-16,Maruchan Lime Chili Chicken,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-hl-1101-25,Maruchan Lime Chili with Shrimp,,Each,Snacks,,,,,,,,"Handwritten list #2, 11/01/2026"
-hl-1101-24,Maruchan with Shrimp,,Each,Snacks,,,,,,,,"Handwritten list #2, 11/01/2026"
-sl-0102-01,Mini Takis,,Each,Snacks,Chips,Takis,SL-0102-01,,,,,Photos/Handwritten
-sp-1103b-24,Miss Vickie's Jalapeño,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-hl-1101-23,Miss Vickie's Sea Salt,,Each,Snacks,,,,,,,,"Handwritten list #2, 11/01/2026"
-sl-0108-01,Munchies Flamin’ Hot,,Each,Snacks,Chips,Munchies,SL-0108-01,,,,,Photos/Handwritten
-sp-1103-19,Nissin Cup Noodles Beef,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-hl-1101-28,Nissin Cup Noodles Chicken,,Each,Snacks,,,,,,,,"Handwritten list #2, 11/01/2026"
-hl-1101-27,Nissin Cup Noodles Shrimp,,Each,Snacks,,,,,,,,"Handwritten list #2, 11/01/2026"
-sp-1103-23,Nongshim Bowl Noodle Chicken,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sp-1103-20,Nongshim Bowl Noodle Hot & Spicy,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sp-1103-22,Nongshim Bowl Noodle Shrimp,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sp-1103-21,Nongshim Shin Ramyun Bowl,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-peelerz-pineapple-6,Peelerz Pineapple,6 oz,Each,Snacks,,,,,,,,Starter list
-sp-1103b-27,Pichirilo Peanuts,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-26,Planters Salted Peanuts,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-hl-1101-14,Pop-Tarts Strawberry,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026"
-sp-1103-05,Pringles BBQ (large can),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sl-0107-01,Pringles Cheddar Cheese,1.4 oz,Each,Snacks,Chips,Pringles,SL-0107-01,,,,,Photos/Handwritten
-sp-1103-04,Pringles Cheddar Cheese (large can),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sp-1103-06,Pringles Original (large can),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-pringles-original-small,Pringles Original (small),3.0 oz,Each,Snacks,,,,,,,,Starter list
-sp-1103-07,Pringles Pizza (large can),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sl-0106-01,Pringles Sour Cream,1.4 oz,Each,Snacks,Chips,Pringles,SL-0106-01,,,,,Photos/Handwritten
-sp-1103-08,Pringles Sour Cream & Onion (large can),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sl-0096-01,Ruffles Cheddar,,Each,Snacks,Chips,Ruffles,SL-0096-01,,,,,Photos/Handwritten
-sl-0098-01,Ruffles Flamin’ Hot,,Each,Snacks,Chips,Ruffles,SL-0098-01,,,,,Photos/Handwritten
-sl-0099-01,Ruffles Queso,,Each,Snacks,Chips,Ruffles,SL-0099-01,,,,,Photos/Handwritten
-sl-0097-01,Ruffles Sour Cream,,Each,Snacks,Chips,Ruffles,SL-0097-01,,,,,Photos/Handwritten
-sl-0104-01,Sabritones Chile Lime,,Each,Snacks,Chips,Sabritones,SL-0104-01,,,,,Photos/Handwritten
-sp-1103-12,Samyang Buldak Carbonara (pack),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sp-1103-25,Samyang Buldak Carbonara Cup,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-shin-ramyun-black,Shin Ramyun Black Beef Bone Broth,3.56 oz,Each,Snacks,,,,,,,,Starter list
-shin-ramyun-gourmet-spicy,Shin Ramyun Gourmet Spicy,4 oz,Each,Snacks,,,,,,,,Starter list
-hl-1101-09,Slim Jim Original Monster Size,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026"
-slim-jim-120,Slim Jim Original snack sticks,120 ct,Pack,Snacks,,,,,,,,Starter list
-sl-0109-01,Smartfood White Cheddar,,Each,Snacks,Chips,Smartfood,SL-0109-01,,,,,Photos/Handwritten
-sl-0101-01,Takis Blue,3.25 oz,Each,Snacks,Chips,Takis,SL-0101-01,,,,,Photos/Handwritten
-sl-0101-02,Takis Blue,9.9 oz,Each,Snacks,Chips,Takis,SL-0101-02,,,,,Photos/Handwritten
-sp-1103-09,Takis Crisps Fuego,5.5 oz,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026"
-sl-0100-01,Takis Fuego,5.5 oz,Each,Snacks,Chips,Takis,SL-0100-01,,,,,Photos/Handwritten
-sl-0103-01,Takis Fuego Regular,9.9 oz,Each,Snacks,Chips,Takis,SL-0103-01,,,,,Photos/Handwritten
-sl-0105-01,Tostitos Salsa Verde,,Each,Snacks,Chips,Tostitos,SL-0105-01,,,,,Photos/Handwritten
-sp-1103b-33,Wonderful Pistachios Roasted & Salted,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sp-1103b-34,Wonderful Pistachios Salt & Vinegar,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-5-spearmint-rain,5 Spearmint Rain gum,,Each,Candy & Gum,,,,,,,,Starter list
-5-watermelon-prism,5 Watermelon Prism gum,,Each,Candy & Gum,,,,,,,,Starter list
-hl-1101-06,Almond Joy Coconut & Almond Chocolate,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026"
-sl-0138-01,Eclipse Gum,,Each,Candy & Gum,Candy / Gum,Eclipse,SL-0138-01,,,,,Photos/Handwritten
-extra-peppermint,Extra Long Lasting Peppermint gum,,Each,Candy & Gum,,,,,,,,Starter list
-halls-assorted-citrus,Halls Assorted Citrus,,Each,Candy & Gum,,,,,,,,Starter list
-sl-0139-01,Halls Extra Strong,,Each,Candy & Gum,Candy / Gum,Halls,SL-0139-01,,,,,Photos/Handwritten
-hl-1101-04,Hershey's Milk Chocolate,1.55 oz,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026"
-hl-1101-05,Kinder Joy Eggs,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026"
-hl-1101-03,Kit Kat (small),,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026"
-sl-0135-01,Mentos Gum,,Each,Candy & Gum,Candy / Gum,Mentos,SL-0135-01,,,,,Photos/Handwritten
-hl-1101-12,Mentos Pure Fresh Gum Spearmint,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026"
-mike-and-ike-original,Mike and Ike Original Fruits,,Each,Candy & Gum,,,,,,,,Starter list
-sp-1103-02,Nerds Rope Rainbow,24 ct,Pack,Candy & Gum,,,,,,,,"Shelf photo, 11/03/2026"
-sp-1103-01,Nerds Rope Very Berry,24 ct,Pack,Candy & Gum,,,,,,,,"Shelf photo, 11/03/2026"
-sl-0136-01,Orbit Gum,,Each,Candy & Gum,Candy / Gum,Orbit,SL-0136-01,,,,,Photos/Handwritten
-reeses-sticks-20,Reese's Sticks,20 ct,Pack,Candy & Gum,,,,,,,,Starter list
-ring-pop-40,Ring Pop,40 ct,Pack,Candy & Gum,,,,,,,,Starter list
-hl-1101-02,Rip Rolls Blue Raspberry,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026"
-sl-0140-01,Rip Rolls Watermelon,,Each,Candy & Gum,Candy / Gum,Rip Rolls,SL-0140-01,,,,,Photos/Handwritten
-snickers-almond-small,Snickers Almond (small),,Each,Candy & Gum,,,,,,,,Starter list
-hl-1101-01,Sour Patch Kids Watermelon,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026"
-sl-0134-01,Tic Tac,,Each,Candy & Gum,Candy / Gum,Tic Tac,SL-0134-01,,,,,Photos/Handwritten
-sl-0141-01,Tootsie Dots,,Each,Candy & Gum,Candy / Gum,Tootsie,SL-0141-01,,,,,Photos/Handwritten
-sl-0137-01,Trident Gum,,Each,Candy & Gum,Candy / Gum,Trident,SL-0137-01,,,,,Photos/Handwritten
-trident-pineapple,Trident Pineapple gum,,Each,Candy & Gum,,,,,,,,Starter list
-trident-spearmint,Trident Spearmint gum,,Each,Candy & Gum,,,,,,,,Starter list
-hl-1101-13,Trident White Spearmint Gum,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026"
-hl-1101-07,Vero Picamelon,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026"
-zumba-goma-sandia,Zumba Goma Sandía,,Each,Candy & Gum,,,,,,,,Starter list
-sl-0175-01,1-2-3 Vegetable Oil,,Each,Grocery,Sauces / Condiments,1-2-3,SL-0175-01,,,,,Photos/Handwritten
-sp-1103-13,Bimbo Blanco Grande White Bread,,Each,Grocery,,,,,,,,"Shelf photo, 11/03/2026"
-sp-1103b-07,Bimbo Toasted Bread Classic,,Each,Grocery,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)"
-sl-0156-01,C&H Pure Cane Sugar,,Each,Grocery,Dry Goods,C&H,SL-0156-01,,,,,Photos/Handwritten
-sl-0173-01,Campero Ketchup,,Each,Grocery,Sauces / Condiments,Campero,SL-0173-01,,,,,Photos/Handwritten
-sl-0155-01,Chicken of the Sea Tuna Chunk Light,,Each,Grocery,Canned / Packaged,Chicken of the Sea,SL-0155-01,,,,,Photos/Handwritten
-sl-0161-01,Coffee Mate Creamer,,Each,Grocery,Coffee / Breakfast,Coffee Mate,SL-0161-01,,,,,Photos/Handwritten
-sl-0152-01,Ducal Black Beans,,Each,Grocery,Canned / Packaged,Ducal,SL-0152-01,,,,,Photos/Handwritten
-sl-0151-01,Ducal Refried Beans,,Each,Grocery,Canned / Packaged,Ducal,SL-0151-01,,,,,Photos/Handwritten
-sl-0153-01,Goya Beans,,Each,Grocery,Canned / Packaged,Goya,SL-0153-01,,,,,Photos/Handwritten
-sl-0169-01,Heinz Vinegar,,Each,Grocery,Sauces / Condiments,Heinz,SL-0169-01,,,,,Photos/Handwritten
-sl-0150-01,Juanita’s Hot & Spicy Menudo,,Each,Grocery,Canned / Packaged,Juanita’s,SL-0150-01,,,,,Photos/Handwritten
-sl-0149-01,Juanita’s Menudo,,Each,Grocery,Canned / Packaged,Juanita’s,SL-0149-01,,,,,Photos/Handwritten
-sl-0164-01,Kellogg’s Cocoa Krispies Cereal,,Each,Grocery,Coffee / Breakfast,Kellogg’s,SL-0164-01,,,,,Photos/Handwritten
-sl-0163-01,Kellogg’s Corn Pops Cereal,,Each,Grocery,Coffee / Breakfast,Kellogg’s,SL-0163-01,,,,,Photos/Handwritten
-sl-0171-01,Ketchup,,Each,Grocery,Sauces / Condiments,Ketchup,SL-0171-01,,,,,Photos/Handwritten
-sl-0168-01,Kikkoman Soy Sauce,,Each,Grocery,Sauces / Condiments,Kikkoman,SL-0168-01,,,,,Photos/Handwritten
-sl-0172-01,La Morena Canned Peppers,Assorted,Each,Grocery,Sauces / Condiments,La Morena,SL-0172-01,,,,,Photos/Handwritten
-sl-0158-01,Maizena Corn Starch,,Each,Grocery,Dry Goods,Maizena,SL-0158-01,,,,,Photos/Handwritten
-sl-0157-01,Maseca Corn Flour,2 lb,Each,Grocery,Dry Goods,Maseca,SL-0157-01,,,,,Photos/Handwritten
-sl-0157-02,Maseca Corn Flour,4 lb,Each,Grocery,Dry Goods,Maseca,SL-0157-02,,,,,Photos/Handwritten
-sl-0170-01,Mayonnaise,,Each,Grocery,Sauces / Condiments,Mayonnaise,SL-0170-01,,,,,Photos/Handwritten
-sl-0174-01,Mazola Corn Oil,,Each,Grocery,Sauces / Condiments,Mazola,SL-0174-01,,,,,Photos/Handwritten
-sl-0162-01,Morton Salt,,Each,Grocery,Dry Goods,Morton,SL-0162-01,,,,,Photos/Handwritten
-sl-0160-01,Nescafé Clasico,,Each,Grocery,Coffee / Breakfast,Nescafé,SL-0160-01,,,,,Photos/Handwritten
-sl-0159-01,Pearl Milling Pancake Mix Original,,Each,Grocery,Dry Goods,Pearl Milling,SL-0159-01,,,,,Photos/Handwritten
-sl-0154-01,Sardines,Various,Each,Grocery,Canned / Packaged,Sardines,SL-0154-01,,,,,Photos/Handwritten
-sl-0167-01,Sriracha Hot Chili Sauce,,Each,Grocery,Sauces / Condiments,Sriracha,SL-0167-01,,,,,Photos/Handwritten
-sl-0165-02,Tapatío Hot Sauce,32 oz,Each,Grocery,Sauces / Condiments,Tapatío,SL-0165-02,,,,,Photos/Handwritten
-sl-0165-01,Tapatío Hot Sauce,5 oz,Each,Grocery,Sauces / Condiments,Tapatío,SL-0165-01,,,,,Photos/Handwritten
-hl-1101-19,Tostadas El Perico,,Each,Grocery,,,,,,,,"Handwritten list #1, 11/01/2026"
-sl-0166-01,Valentina Hot Sauce,,Each,Grocery,Sauces / Condiments,Valentina,SL-0166-01,,,,,Photos/Handwritten
-sl-0217-01,Juanita’s Arroz con Leche,10 pieces,Each,Refrigerated & Desserts,Desserts,Juanita’s,SL-0217-01,,,,,Photos/Handwritten
-sl-0220-01,Juanita’s Banderita Gelatin,10 pieces,Each,Refrigerated & Desserts,Desserts,Juanita’s,SL-0220-01,,,,,Photos/Handwritten
-sl-0221-01,Juanita’s Creamy Flan,10 pieces,Each,Refrigerated & Desserts,Desserts,Juanita’s,SL-0221-01,,,,,Photos/Handwritten
-sl-0219-01,Juanita’s Mixed Fruit Gelatin,10 pieces,Each,Refrigerated & Desserts,Desserts,Juanita’s,SL-0219-01,,,,,Photos/Handwritten
-sl-0218-01,Juanita’s Vanilla Gelatin,10 pieces,Each,Refrigerated & Desserts,Desserts,Juanita’s,SL-0218-01,,,,,Photos/Handwritten
-sl-0177-01,Ajax Cleaner,,Each,Household & Cleaning,Cleaning,Ajax,SL-0177-01,,,,,Photos/Handwritten
-sl-0187-01,Ariel Detergent,,Each,Household & Cleaning,Laundry,Ariel,SL-0187-01,,,,,Photos/Handwritten
-sl-0183-01,Awesome Cleaner,,Each,Household & Cleaning,Cleaning,Awesome,SL-0183-01,,,,,Photos/Handwritten
-hl-1101-21,Candle Sagrado Corazón de Jesús,,Each,Household & Cleaning,,,,,,,,"Handwritten list #1, 11/01/2026"
-hl-1101-22,Candle San Judas Tadeo White Vanilla,,Each,Household & Cleaning,,,,,,,,"Handwritten list #1, 11/01/2026"
-hl-1101-20,Candle Virgen de Guadalupe,,Each,Household & Cleaning,,,,,,,,"Handwritten list #1, 11/01/2026"
-sl-0181-01,Clorox Bleach,24 oz,Each,Household & Cleaning,Cleaning,Clorox,SL-0181-01,,,,,Photos/Handwritten
-sl-0191-01,Downy Fabric Softener,,Each,Household & Cleaning,Laundry,Downy,SL-0191-01,,,,,Photos/Handwritten
-sl-0176-01,Fabuloso Cleaner,,Each,Household & Cleaning,Cleaning,Fabuloso,SL-0176-01,,,,,Photos/Handwritten
-sl-0192-01,Mahathir Laundry Detergent,,Each,Household & Cleaning,Laundry,Mahathir,SL-0192-01,,,,,Photos/Handwritten
-sl-0185-01,Oven Cleaner,,Each,Household & Cleaning,Cleaning,Oven Cleaner,SL-0185-01,,,,,Photos/Handwritten
-sl-0179-01,Palmolive Dish Soap,,Each,Household & Cleaning,Cleaning,Palmolive,SL-0179-01,,,,,Photos/Handwritten
-sl-0182-01,Raid Ant & Roach Spray,17.5 oz,Each,Household & Cleaning,Cleaning,Raid,SL-0182-01,,,,,Photos/Handwritten
-sl-0188-01,Roma Detergent,,Each,Household & Cleaning,Laundry,Roma,SL-0188-01,,,,,Photos/Handwritten
-sl-0180-01,Salvo Dish Soap,,Each,Household & Cleaning,Cleaning,Salvo,SL-0180-01,,,,,Photos/Handwritten
-sl-0189-01,Suavitel Fabric Softener,450 ml,Each,Household & Cleaning,Laundry,Suavitel,SL-0189-01,,,,,Photos/Handwritten
-sl-0190-01,Suavitel Fresca Aroma,450 ml,Each,Household & Cleaning,Laundry,Suavitel,SL-0190-01,,,,,Photos/Handwritten
-sl-0186-01,Tide Detergent,Liquid,Each,Household & Cleaning,Laundry,Tide,SL-0186-01,,,,,Photos/Handwritten
-sl-0186-02,Tide Detergent,Powder,Each,Household & Cleaning,Laundry,Tide,SL-0186-02,,,,,Photos/Handwritten
-sl-0184-01,Toilet Bowl Cleaner,,Each,Household & Cleaning,Cleaning,Toilet Bowl Cleaner,SL-0184-01,,,,,Photos/Handwritten
-sl-0178-01,Windex,,Each,Household & Cleaning,Cleaning,Windex,SL-0178-01,,,,,Photos/Handwritten
-sl-0193-01,Zote Laundry Soap,,Each,Household & Cleaning,Laundry,Zote,SL-0193-01,,,,,Photos/Handwritten
-sl-0200-01,Axiom Plates,,Each,Paper & Supplies,Paper Goods / Supplies,Axiom,SL-0200-01,,,,,Photos/Handwritten
-sl-0194-01,Bounty Paper Towels,,Each,Paper & Supplies,Paper Goods / Supplies,Bounty,SL-0194-01,,,,,Photos/Handwritten
-sl-0197-01,Foam Plates,,Each,Paper & Supplies,Paper Goods / Supplies,Foam Plates,SL-0197-01,,,,,Photos/Handwritten
-sl-0196-01,Kirkland Paper Towels,,Each,Paper & Supplies,Paper Goods / Supplies,Kirkland,SL-0196-01,,,,,Photos/Handwritten
-sl-0195-01,Melody Paper Towels,,Each,Paper & Supplies,Paper Goods / Supplies,Melody,SL-0195-01,,,,,Photos/Handwritten
-sl-0199-03,Paper Bags,No. 10,Each,Paper & Supplies,Paper Goods / Supplies,Paper Bags,SL-0199-03,,,,,Photos/Handwritten
-hl-1101-38,Paper Bags,No. 2,Each,Paper & Supplies,,,,,,,,"Handwritten list #2, 11/01/2026"
-sl-0199-01,Paper Bags,No. 4,Each,Paper & Supplies,Paper Goods / Supplies,Paper Bags,SL-0199-01,,,,,Photos/Handwritten
-sl-0199-02,Paper Bags,No. 8,Each,Paper & Supplies,Paper Goods / Supplies,Paper Bags,SL-0199-02,,,,,Photos/Handwritten
-sl-0198-01,Plastic Cups,12 oz,Each,Paper & Supplies,Paper Goods / Supplies,Plastic Cups,SL-0198-01,,,,,Photos/Handwritten
-sl-0198-02,Plastic Cups,18 cups,Each,Paper & Supplies,Paper Goods / Supplies,Plastic Cups,SL-0198-02,,,,,Photos/Handwritten
-sl-0201-01,Reynolds Wrap,,Each,Paper & Supplies,Paper Goods / Supplies,Reynolds,SL-0201-01,,,,,Photos/Handwritten
-sl-0202-01,Stick-Em Mouse Traps,2 pack,Each,Paper & Supplies,Paper Goods / Supplies,Stick-Em,SL-0202-01,,,,,Photos/Handwritten
-sl-0216-01,Gillette Gel,,Each,Personal Care,Personal Care / Other,Gillette,SL-0216-01,,,,,Photos/Handwritten
-sl-0214-01,Gillette Gel Deodorant,,Each,Personal Care,Personal Care / Other,Gillette,SL-0214-01,,,,,Photos/Handwritten
-sl-0213-01,Nivea Lotion,8 oz,Each,Personal Care,Personal Care / Other,Nivea,SL-0213-01,,,,,Photos/Handwritten
-sl-0215-01,Rhino Liquid Fuel,,Each,Personal Care,Personal Care / Other,Rhino,SL-0215-01,,,,,Photos/Handwritten
-sl-0204-01,Choice Cuts Dog Food,,Each,Pet,Pet Food,Choice Cuts,SL-0204-01,,,,,Photos/Handwritten
-sl-0203-01,Friskies Cat Food,,Each,Pet,Pet Food,Friskies,SL-0203-01,,,,,Photos/Handwritten
-sl-0205-01,Surfin’ Turfin’ Cat Food,3.15 lb,Each,Pet,Pet Food,Surfin’ Turfin’,SL-0205-01,,,,,Photos/Handwritten
-sl-0209-01,Antifreeze Coolant,,Each,Automotive,Automotive,Antifreeze,SL-0209-01,,,,,Photos/Handwritten
-sl-0207-01,Automatic Transmission Fluid,,Each,Automotive,Automotive,ATF,SL-0207-01,,,,,Photos/Handwritten
-sl-0211-01,Brake Fluid,,Each,Automotive,Automotive,Brake Fluid,SL-0211-01,,,,,Photos/Handwritten
-sl-0208-01,Engine Additives,,Each,Automotive,Automotive,Engine Additive,SL-0208-01,,,,,Photos/Handwritten
-sl-0212-01,Gas Treatment,,Each,Automotive,Automotive,Gas Treatment,SL-0212-01,,,,,Photos/Handwritten
-sl-0210-01,Liquid Fire Drain Opener,,Each,Automotive,Automotive,Liquid Fire,SL-0210-01,,,,,Photos/Handwritten
-sl-0206-01,Supreme Motor Oil,10W-30,Each,Automotive,Automotive,Supreme,SL-0206-01,,,,,Photos/Handwritten
-sl-0206-02,Supreme Motor Oil,15W-30,Each,Automotive,Automotive,Supreme,SL-0206-02,,,,,Photos/Handwritten
-sl-0206-03,Supreme Motor Oil,HD 30,Each,Automotive,Automotive,Supreme,SL-0206-03,,,,,Photos/Handwritten
+id,name,size,unit,category,subcategory,brand,sku,barcode,vendor,cost,price,source,price_deal
+1800-reposado-375,1800 Reposado,375 ml,Bottle,Spirits,,,,,,,,Starter list,
+absolut-wild-berri,Absolut Wild Berri,,Bottle,Spirits,,,,,,,,Starter list,
+casamigos-blanco,Casamigos Blanco,,Bottle,Spirits,,,,,,,,Starter list,
+casamigos-reposado-750,Casamigos Reposado,750 ml,Bottle,Spirits,,,,,,,,Starter list,
+codigo-1530-blanco-750,Código 1530 Blanco,750 ml,Bottle,Spirits,,,,,,,,Starter list,
+don-julio-blanco-375,Don Julio Blanco,375 ml,Bottle,Spirits,,,,,,,,Starter list,
+don-julio-reposado-375,Don Julio Reposado,375 ml,Bottle,Spirits,,,,,,,,Starter list,
+espolon-blanco-375,Espolòn Blanco,375 ml,Bottle,Spirits,,,,,,,,Starter list,
+hornitos-reposado-200,Hornitos Reposado,200 ml,Bottle,Spirits,,,,,,,,Starter list,
+hornitos-reposado-375,Hornitos Reposado,375 ml,Bottle,Spirits,,,,,,,,Starter list,
+jack-daniels-200,Jack Daniel's Old No. 7,200 ml,Bottle,Spirits,,,,,,,,Starter list,
+jack-daniels-375,Jack Daniel's Old No. 7,375 ml,Bottle,Spirits,,,,,,,,Starter list,
+jack-daniels-750,Jack Daniel's Old No. 7,750 ml,Bottle,Spirits,,,,,,,,Starter list,
+cuervo-especial-gold-200,Jose Cuervo Especial Gold,200 ml,Bottle,Spirits,,,,,,,,Starter list,
+titos-200,Tito's Handmade Vodka,200 ml,Bottle,Spirits,,,,,,,,Starter list,
+titos-375,Tito's Handmade Vodka,375 ml,Bottle,Spirits,,,,,,,,Starter list,
+titos-750,Tito's Handmade Vodka,750 ml,Bottle,Spirits,,,,,,,,Starter list,
+asahi-6pk,Asahi,6 pk,Bottle,Beer & Seltzer,,,,,,,,Starter list,
+bud-light-lime-25,Bud Light Lime,25 oz,Can,Beer & Seltzer,,,,,,,,Starter list,
+cayman-jack-margarita,Cayman Jack Margarita,17 oz,Can,Beer & Seltzer,,,,,,,,Starter list,
+cayman-jack-strawberry,Cayman Jack Margarita Strawberry,17 oz,Can,Beer & Seltzer,,,,,,,,Starter list,
+famosa-24,Famosa,24 oz,Can,Beer & Seltzer,,,,,,,,Starter list,
+mikes-hurricane-punch-24,Mike's Harder Hurricane Punch,24 oz,Can,Beer & Seltzer,,,,,,,,Starter list,
+ritas-lime-a-rita-25,Rita's Lime-A-Rita,25 oz,Can,Beer & Seltzer,,,,,,,,Starter list,
+ritas-straw-ber-rita-25,Rita's Straw-Ber-Rita,25 oz,Can,Beer & Seltzer,,,,,,,,Starter list,
+sapporo-24,Sapporo,24 oz,Can,Beer & Seltzer,,,,,,,,Starter list,
+sapporo-6pk,Sapporo,6 pk,Bottle,Beer & Seltzer,,,,,,,,Starter list,
+steel-reserve-cherry-slushie-24,Steel Reserve Spiked Cherry Slushie,24 oz,Can,Beer & Seltzer,,,,,,,,Starter list,
+twisted-tea-peach-25,Twisted Tea Peach,25 oz,Can,Beer & Seltzer,,,,,,,,Starter list,
+twisted-tea-pineapple-25,Twisted Tea Pineapple,25 oz,Can,Beer & Seltzer,,,,,,,,Starter list,
+twisted-tea-raspberry-25,Twisted Tea Raspberry,25 oz,Can,Beer & Seltzer,,,,,,,,Starter list,
+white-claw-variety-1,White Claw Variety Pack #1,,Pack,Beer & Seltzer,,,,,,,,Starter list,
+white-claw-variety-2,White Claw Variety Pack #2,,Pack,Beer & Seltzer,,,,,,,,Starter list,
+white-claw-variety-3,White Claw Variety Pack #3,,Pack,Beer & Seltzer,,,,,,,,Starter list,
+7up-20,7UP,20 oz,Bottle,Drinks,Soft Drinks / Soda,7UP,SL-0009-01,,,,,Photos/Handwritten,
+sl-0069-01,Agua Fina,16 oz,Each,Drinks,Water / Sparkling Water,Agua Fina,SL-0069-01,,,,,Photos/Handwritten,
+alo-mango-169,Aloe Vera Drink Mango,16.9 oz,Bottle,Drinks,,,,,,,,Starter list,
+sl-0065-01,Aquafina Water,16 oz,Each,Drinks,Water / Sparkling Water,Aquafina,SL-0065-01,,,,,Photos/Handwritten,
+sl-0043-01,Arizona Green Tea,1 L,Each,Drinks,Juice / Tea / Specialty,Arizona,SL-0043-01,,,,,Photos/Handwritten,
+sl-0044-01,Arizona Iced Tea Assorted,Assorted,Each,Drinks,Juice / Tea / Specialty,Arizona,SL-0044-01,,,,,Photos/Handwritten,
+sl-0042-01,Arizona Mango,1 L,Each,Drinks,Juice / Tea / Specialty,Arizona,SL-0042-01,,,,,Photos/Handwritten,
+sl-0046-01,Brisk Fruit Punch,1 L,Each,Drinks,Juice / Tea / Specialty,Brisk,SL-0046-01,,,,,Photos/Handwritten,
+sl-0045-01,Brisk Lemon Iced Tea,1 L,Each,Drinks,Juice / Tea / Specialty,Brisk,SL-0045-01,,,,,Photos/Handwritten,
+sl-0047-01,Brisk Lemonade,1 L,Each,Drinks,Juice / Tea / Specialty,Brisk,SL-0047-01,,,,,Photos/Handwritten,
+hl-1101-31,Calypso Original Lemonade,16 oz,Bottle,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026",
+sl-0011-01,Canada Dry,1 L,Each,Drinks,Soft Drinks / Soda,Canada Dry,SL-0011-01,,,,,Photos/Handwritten,
+sl-0012-01,Canada Dry Club Soda,10 oz,Each,Drinks,Soft Drinks / Soda,Canada Dry,SL-0012-01,,,,,Photos/Handwritten,
+sl-0025-01,Celsius,12 oz,Each,Drinks,Energy Drinks,Celsius,SL-0025-01,,,,,Photos/Handwritten,
+clamato-original-16,Clamato Original,16 oz,Bottle,Drinks,,,,,,,,Starter list,
+clamato-picante-16,Clamato Picante,16 oz,Bottle,Drinks,,,,,,,,Starter list,
+sl-0049-01,Clamato Picante,32 oz,Each,Drinks,Juice / Tea / Specialty,Clamato,SL-0049-01,,,,,Photos/Handwritten,
+sl-0048-01,Clamato Regular,10 oz,Each,Drinks,Juice / Tea / Specialty,Clamato,SL-0048-01,,,,,Photos/Handwritten,
+sl-0048-02,Clamato Regular,32 oz,Each,Drinks,Juice / Tea / Specialty,Clamato,SL-0048-02,,,,,Photos/Handwritten,
+sl-0001-04,Coca-Cola,1 L,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0001-04,,,,,Photos/Handwritten,
+sl-0001-01,Coca-Cola,12 oz,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0001-01,,,,,Photos/Handwritten,
+sl-0001-02,Coca-Cola,16 oz,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0001-02,,,,,Photos/Handwritten,
+sl-0001-05,Coca-Cola,2 L,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0001-05,,,,,Photos/Handwritten,
+coca-cola-20,Coca-Cola,20 oz,Bottle,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0001-03,,,,,Photos/Handwritten,
+sl-0001-06,Coca-Cola,3 L,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0001-06,,,,,Photos/Handwritten,
+sl-0002-01,Coca-Cola Vanilla,20 oz,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0002-01,,,,,Photos/Handwritten,
+hl-1101-30,Coca-Cola Zero,12 oz,Can,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026",
+sl-0003-01,Coca-Cola Zero,20 oz,Each,Drinks,Soft Drinks / Soda,Coca-Cola,SL-0003-01,,,,,Photos/Handwritten,
+sl-0061-01,Core Water,20 oz,Each,Drinks,Water / Sparkling Water,Core,SL-0061-01,,,,,Photos/Handwritten,
+hl-1101-34,Crush Orange,2 L,Bottle,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026",
+sl-0060-02,Crystal Geyser Water,1 L,Each,Drinks,Water / Sparkling Water,Crystal Geyser,SL-0060-02,,,,,Photos/Handwritten,
+sl-0060-01,Crystal Geyser Water,16 oz,Each,Drinks,Water / Sparkling Water,Crystal Geyser,SL-0060-01,,,,,Photos/Handwritten,
+diet-coke-12,Diet Coke,12 oz,Can,Drinks,,,,,,,,Starter list,
+hl-1101-37,Diet Coke,2 L,Bottle,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026",
+sl-0055-01,Electrolit Assorted,Various,Each,Drinks,Juice / Tea / Specialty,Electrolit,SL-0055-01,,,,,Photos/Handwritten,
+sl-0062-01,Essentia Water,1 L,Each,Drinks,Water / Sparkling Water,Essentia,SL-0062-01,,,,,Photos/Handwritten,
+sl-0062-02,Essentia Water,1.5 L,Each,Drinks,Water / Sparkling Water,Essentia,SL-0062-02,,,,,Photos/Handwritten,
+sl-0064-01,Evian Water,1.5 L,Each,Drinks,Water / Sparkling Water,Evian,SL-0064-01,,,,,Photos/Handwritten,
+sl-0005-01,Fanta Orange,12 oz,Each,Drinks,Soft Drinks / Soda,Fanta,SL-0005-01,,,,,Photos/Handwritten,
+sl-0005-03,Fanta Orange,2 L,Each,Drinks,Soft Drinks / Soda,Fanta,SL-0005-03,,,,,Photos/Handwritten,
+sl-0005-02,Fanta Orange,20 oz,Each,Drinks,Soft Drinks / Soda,Fanta,SL-0005-02,,,,,Photos/Handwritten,
+sl-0005-04,Fanta Orange,3 L,Each,Drinks,Soft Drinks / Soda,Fanta,SL-0005-04,,,,,Photos/Handwritten,
+sl-0007-01,Fanta Pineapple,12 oz,Each,Drinks,Soft Drinks / Soda,Fanta,SL-0007-01,,,,,Photos/Handwritten,
+fanta-pineapple-20,Fanta Pineapple,20 oz,Bottle,Drinks,,,,,,,,Starter list,
+sl-0006-01,Fanta Strawberry,12 oz,Each,Drinks,Soft Drinks / Soda,Fanta,SL-0006-01,,,,,Photos/Handwritten,
+sl-0063-01,Fiji Water,1.5 L,Each,Drinks,Water / Sparkling Water,Fiji,SL-0063-01,,,,,Photos/Handwritten,
+sl-0032-01,Gatorade Cool Blue,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0032-01,,,,,Photos/Handwritten,
+sl-0030-01,Gatorade Fruit Punch,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0030-01,,,,,Photos/Handwritten,
+sl-0035-01,Gatorade Glacier Cherry,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0035-01,,,,,Photos/Handwritten,
+sl-0033-01,Gatorade Grape,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0033-01,,,,,Photos/Handwritten,
+sl-0034-01,Gatorade Green Apple,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0034-01,,,,,Photos/Handwritten,
+sl-0031-01,Gatorade Lemon Pepino,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0031-01,,,,,Photos/Handwritten,
+gatorade-orange-20,Gatorade Orange,20 oz,Bottle,Drinks,Sports Drinks,Gatorade,SL-0029-01,,,,,Photos/Handwritten,
+sl-0036-01,Gatorade Pepino Cucumber,20 oz,Each,Drinks,Sports Drinks,Gatorade,SL-0036-01,,,,,Photos/Handwritten,
+sl-0024-01,Ghost Energy,16 oz,Each,Drinks,Energy Drinks,Ghost,SL-0024-01,,,,,Photos/Handwritten,
+jarritos-mineral-20,Jarritos Agua Mineral (plastic),20 oz,Bottle,Drinks,,,,,,,,Starter list,
+sl-0017-01,Jarritos Mineragua,1.5 L,Each,Drinks,Soft Drinks / Soda,Jarritos,SL-0017-01,,,,,Photos/Handwritten,
+sl-0040-01,Jumex Mango,Can,Each,Drinks,Juice / Tea / Specialty,Jumex,SL-0040-01,,,,,Photos/Handwritten,
+jumex-strawberry-banana,Jumex Strawberry Banana,32.4 oz,Can,Drinks,,,,,,,,Starter list,
+sl-0018-01,Manzanita Sol,2 L,Each,Drinks,Soft Drinks / Soda,Manzanita Sol,SL-0018-01,,,,,Photos/Handwritten,
+sl-0037-01,Minute Maid Lemonade,2 L,Each,Drinks,Juice / Tea / Specialty,Minute Maid,SL-0037-01,,,,,Photos/Handwritten,
+minute-maid-pink-lemonade,Minute Maid Pink Lemonade,2 L,Bottle,Drinks,Juice / Tea / Specialty,Minute Maid,SL-0038-01,,,,,Photos/Handwritten,
+sl-0019-01,Monster Energy,16 oz,Each,Drinks,Energy Drinks,Monster,SL-0019-01,,,,,Photos/Handwritten,
+sl-0020-01,Monster Regular,24 oz,Each,Drinks,Energy Drinks,Monster,SL-0020-01,,,,,Photos/Handwritten,
+sl-0021-01,Monster Zero Ultra,16 oz,Each,Drinks,Energy Drinks,Monster,SL-0021-01,,,,,Photos/Handwritten,
+sl-0052-01,Nesquik Chocolate,14 oz,Each,Drinks,Juice / Tea / Specialty,Nesquik,SL-0052-01,,,,,Photos/Handwritten,
+sl-0053-01,Nesquik Strawberry,14 oz,Each,Drinks,Juice / Tea / Specialty,Nesquik,SL-0053-01,,,,,Photos/Handwritten,
+sl-0054-01,Nesquik Vanilla,14 oz,Each,Drinks,Juice / Tea / Specialty,Nesquik,SL-0054-01,,,,,Photos/Handwritten,
+sl-0059-01,Niagara Water,16 oz,Each,Drinks,Water / Sparkling Water,Niagara,SL-0059-01,,,,,Photos/Handwritten,
+niagara-water,Niagara Water,16.9 oz,Bottle,Drinks,Water / Sparkling Water,Niagara,SL-0059-02,,,,,Photos/Handwritten,
+sl-0059-03,Niagara Water,Gallon,Each,Drinks,Water / Sparkling Water,Niagara,SL-0059-03,,,,,Photos/Handwritten,
+sl-0051-01,Parrot Coconut,11.5 oz,Each,Drinks,Juice / Tea / Specialty,Parrot,SL-0051-01,,,,,Photos/Handwritten,
+sl-0051-02,Parrot Coconut,16.9 oz,Each,Drinks,Juice / Tea / Specialty,Parrot,SL-0051-02,,,,,Photos/Handwritten,
+sl-0058-01,Pedialyte Grape,33.8 oz,Each,Drinks,Juice / Tea / Specialty,Pedialyte,SL-0058-01,,,,,Photos/Handwritten,
+sl-0056-01,Pedialyte Mixed Fruit,33.8 oz,Each,Drinks,Juice / Tea / Specialty,Pedialyte,SL-0056-01,,,,,Photos/Handwritten,
+sl-0057-01,Pedialyte Strawberry,33.8 oz,Each,Drinks,Juice / Tea / Specialty,Pedialyte,SL-0057-01,,,,,Photos/Handwritten,
+hl-1101-29,Pedialyte Unflavored,33.8 oz,Bottle,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026",
+sl-0066-01,Pellegrino Mineral Water,16 oz,Each,Drinks,Water / Sparkling Water,Pellegrino,SL-0066-01,,,,,Photos/Handwritten,
+sl-0010-03,Pepsi,1 L,Each,Drinks,Soft Drinks / Soda,Pepsi,SL-0010-03,,,,,Photos/Handwritten,
+sl-0010-01,Pepsi,16 oz,Each,Drinks,Soft Drinks / Soda,Pepsi,SL-0010-01,,,,,Photos/Handwritten,
+pepsi-2l,Pepsi,2 L,Bottle,Drinks,,,,,,,,Starter list,
+pepsi-20,Pepsi,20 oz,Bottle,Drinks,Soft Drinks / Soda,Pepsi,SL-0010-02,,,,,Photos/Handwritten,
+pepsi-3l,Pepsi,3 L,Bottle,Drinks,,,,,,,,Starter list,
+sl-0067-01,Perrier Lime,16 oz,Each,Drinks,Water / Sparkling Water,Perrier,SL-0067-01,,,,,Photos/Handwritten,
+powerade-orange-20,Powerade Orange,20 oz,Bottle,Drinks,,,,,,,,Starter list,
+red-bull-16,Red Bull,16 oz,Can,Drinks,,,,,,,,Starter list,
+red-bull-84,Red Bull,8.4 oz,Can,Drinks,Energy Drinks,Red Bull,SL-0022-01,,,,,Photos/Handwritten,
+sl-0022-02,Red Bull Regular,12 oz,Each,Drinks,Energy Drinks,Red Bull,SL-0022-02,,,,,Photos/Handwritten,
+sl-0023-01,Red Bull Yellow Edition Tropical,12 oz,Each,Drinks,Energy Drinks,Red Bull,SL-0023-01,,,,,Photos/Handwritten,
+hl-1101-36,Shasta Black Cherry,12 oz,Can,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026",
+sl-0013-01,Shasta Cola,12 oz,Each,Drinks,Soft Drinks / Soda,Shasta,SL-0013-01,,,,,Photos/Handwritten,
+sl-0014-01,Shasta Grape,12 oz,Each,Drinks,Soft Drinks / Soda,Shasta,SL-0014-01,,,,,Photos/Handwritten,
+sl-0016-01,Shasta Lemon,12 oz,Each,Drinks,Soft Drinks / Soda,Shasta,SL-0016-01,,,,,Photos/Handwritten,
+sl-0015-01,Shasta Tiki Punch,12 oz,Each,Drinks,Soft Drinks / Soda,Shasta,SL-0015-01,,,,,Photos/Handwritten,
+smartwater-20,Smartwater,20 oz,Bottle,Drinks,,,,,,,,Starter list,
+sl-0041-01,Soya Mango Carrot,20–23 oz,Each,Drinks,Juice / Tea / Specialty,Soya,SL-0041-01,,,,,Photos/Handwritten,
+sl-0004-03,Sprite,1 L,Each,Drinks,Soft Drinks / Soda,Sprite,SL-0004-03,,,,,Photos/Handwritten,
+sl-0004-01,Sprite,16 oz,Each,Drinks,Soft Drinks / Soda,Sprite,SL-0004-01,,,,,Photos/Handwritten,
+sl-0004-04,Sprite,2 L,Each,Drinks,Soft Drinks / Soda,Sprite,SL-0004-04,,,,,Photos/Handwritten,
+sprite-20,Sprite,20 oz,Bottle,Drinks,Soft Drinks / Soda,Sprite,SL-0004-02,,,,,Photos/Handwritten,
+sl-0008-03,Squirt,1 L,Each,Drinks,Soft Drinks / Soda,Squirt,SL-0008-03,,,,,Photos/Handwritten,
+sl-0008-01,Squirt,16 oz,Each,Drinks,Soft Drinks / Soda,Squirt,SL-0008-01,,,,,Photos/Handwritten,
+sl-0008-04,Squirt,2 L,Each,Drinks,Soft Drinks / Soda,Squirt,SL-0008-04,,,,,Photos/Handwritten,
+sl-0008-02,Squirt,20 oz,Each,Drinks,Soft Drinks / Soda,Squirt,SL-0008-02,,,,,Photos/Handwritten,
+hl-1101-35,Squirt Mexicano,355 ml,Bottle,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026",
+frappuccino-coffee-137,Starbucks Frappuccino Coffee (regular),13.7 oz,Bottle,Drinks,,,,,,,,Starter list,
+frappuccino-mocha-137,Starbucks Frappuccino Mocha,13.7 oz,Bottle,Drinks,,,,,,,,Starter list,
+sl-0039-03,Sunny D Orange,11.5 oz,Each,Drinks,Juice / Tea / Specialty,Sunny D,SL-0039-03,,,,,Photos/Handwritten,
+sl-0039-01,Sunny D Orange,64 oz,Each,Drinks,Juice / Tea / Specialty,Sunny D,SL-0039-01,,,,,Photos/Handwritten,
+sl-0039-04,Sunny D Orange,8.5 oz,Each,Drinks,Juice / Tea / Specialty,Sunny D,SL-0039-04,,,,,Photos/Handwritten,
+sl-0039-02,Sunny D Orange,Gallon,Each,Drinks,Juice / Tea / Specialty,Sunny D,SL-0039-02,,,,,Photos/Handwritten,
+sl-0068-01,Topo Chico Mineral Water,12 oz,Each,Drinks,Water / Sparkling Water,Topo Chico,SL-0068-01,,,,,Photos/Handwritten,
+hl-1101-33,Toucan Coconut Milk Drink Original,9.8 oz,Can,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026",
+hl-1101-32,Toucan Coconut Milk Drink Strawberry,9.8 oz,Can,Drinks,,,,,,,,"Handwritten list #2, 11/01/2026",
+sl-0050-01,V8 Original,11.5 oz,Each,Drinks,Juice / Tea / Specialty,V8,SL-0050-01,,,,,Photos/Handwritten,
+sl-0026-02,Vitamin Water Energy,32 oz,Each,Drinks,Energy Drinks,Vitamin Water,SL-0026-02,,,,,Photos/Handwritten,
+sl-0027-01,Vitamin Water Power-C,20 oz,Each,Drinks,Energy Drinks,Vitamin Water,SL-0027-01,,,,,Photos/Handwritten,
+sl-0028-01,Vitamin Water XXX,20 oz,Each,Drinks,Energy Drinks,Vitamin Water,SL-0028-01,,,,,Photos/Handwritten,
+vitaminwater-energy-20,Vitaminwater Energy,20 oz,Bottle,Drinks,Energy Drinks,Vitamin Water,SL-0026-01,,,,,Photos/Handwritten,
+sl-0147-01,Arachi Large Peanuts,,Each,Snacks,Nuts / Seeds,Arachi,SL-0147-01,,,,,Photos/Handwritten,
+sl-0110-01,Baken-Ets Chicharrones,,Each,Snacks,Chips,Baken-Ets,SL-0110-01,,,,,Photos/Handwritten,
+sp-1103b-39,Baken-Ets Chicharrones Hot 'n Spicy,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-10,Bimbo Bimbuñuelos,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-11,Bimbo Crossantines Minis Hershey's,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-08,Bimbo Cuernitos,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-13,Bimbo Donas,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-06,Bimbo Doraditas,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-12,Bimbo Mini Mantecadas (assorted),,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-05,Bimbo Nito Duo,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-01,Bimbo Panqué Pound Cake,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-02,Bimbo Panqué with Pecans,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-03,Bimbo Panqué with Raisins,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-09,Bimbo Rebanadas,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-04,Bimbo Roles Cinnamon Rolls,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sl-0125-01,Bon Appetit Banana Bread,,Each,Snacks,Sweet Snacks / Bakery,Bon Appetit,SL-0125-01,,,,,Photos/Handwritten,
+hl-1101-17,Bon Appetit Banana Nut Muffin,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026",
+hl-1101-16,Bon Appetit Bear Claw,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026",
+sl-0124-01,Bon Appetit Blueberry Muffin,,Each,Snacks,Sweet Snacks / Bakery,Bon Appetit,SL-0124-01,,,,,Photos/Handwritten,
+sl-0126-01,Bon Appetit Cheese & Berries,,Each,Snacks,Sweet Snacks / Bakery,Bon Appetit,SL-0126-01,,,,,Photos/Handwritten,
+hl-1101-18,Bon Appetit Concha Sweetie Roll,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026",
+sl-0123-01,Bon Appetit Lemon Cake,,Each,Snacks,Sweet Snacks / Bakery,Bon Appetit,SL-0123-01,,,,,Photos/Handwritten,
+sl-0122-01,Bon Appetit Marble Cake,,Each,Snacks,Sweet Snacks / Bakery,Bon Appetit,SL-0122-01,,,,,Photos/Handwritten,
+sl-0121-01,Bon Appetit Strawberry Cheese Muffin,,Each,Snacks,Sweet Snacks / Bakery,Bon Appetit,SL-0121-01,,,,,Photos/Handwritten,
+sl-0077-01,Cheetos Crunchy,,Each,Snacks,Chips,Cheetos,SL-0077-01,,,,,Photos/Handwritten,
+sp-1103c-02,Cheetos Crunchy Cheddar Jalapeño,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026 (chip rack)",
+sl-0080-01,Cheetos Crunchy Jalapeño Cheddar XXL,,Each,Snacks,Chips,Cheetos,SL-0080-01,,,,,Photos/Handwritten,
+sp-1103b-30,Cheetos Flamin' Hot Limón,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sl-0078-01,Cheetos Flamin’ Hot,,Each,Snacks,Chips,Cheetos,SL-0078-01,,,,,Photos/Handwritten,
+sl-0079-01,Cheetos Puffs,,Each,Snacks,Chips,Cheetos,SL-0079-01,,,,,Photos/Handwritten,
+cheetos-xxtra-flamin-hot,Cheetos XXTRA Flamin' Hot,,Each,Snacks,,,,,,,,Starter list,
+sp-1103-10,Cheez-It Original (Grab & Go),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sp-1103-11,Cheez-It Pepper Jack (Grab & Go),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+hl-1101-08,Cheez-It White Cheddar,3 oz,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026",
+sl-0081-01,Chester’s Hot Fries,,Each,Snacks,Chips,Chester’s,SL-0081-01,,,,,Photos/Handwritten,
+sl-0082-01,Chester’s Puffcorn Flamin’ Hot,,Each,Snacks,Chips,Chester’s,SL-0082-01,,,,,Photos/Handwritten,
+hl-1101-10,Corn Nuts Chile Picante,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026",
+sp-1103b-25,Corn Nuts Ranch,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sl-0142-01,David Sunflower Seeds,,Each,Snacks,Nuts / Seeds,David,SL-0142-01,,,,,Photos/Handwritten,
+sp-1103b-35,David Sunflower Seeds Bar-B-Q Jumbo,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-36,David Sunflower Seeds Ranch Jumbo,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-32,Don David Habas,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+don-david-peanuts,Don David Peanuts Sal y Limón,,Each,Snacks,Nuts / Seeds,Don David,SL-0143-01,,,,,Photos/Handwritten,
+sl-0074-01,Doritos Cool Ranch,,Each,Snacks,Chips,Doritos,SL-0074-01,,,,,Photos/Handwritten,
+sl-0075-01,Doritos Dinamita Chile Limón,,Each,Snacks,Chips,Doritos,SL-0075-01,,,,,Photos/Handwritten,
+sl-0076-01,Doritos Dinamita Queso,,Each,Snacks,Chips,Doritos,SL-0076-01,,,,,Photos/Handwritten,
+sl-0071-01,Doritos Flamas,,Each,Snacks,Chips,Doritos,SL-0071-01,,,,,Photos/Handwritten,
+sp-1103b-38,Doritos Flamin' Hot Nacho,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sl-0070-01,Doritos Nacho,,Each,Snacks,Chips,Doritos,SL-0070-01,,,,,Photos/Handwritten,
+sl-0072-01,Doritos Salsa Verde,,Each,Snacks,Chips,Doritos,SL-0072-01,,,,,Photos/Handwritten,
+sl-0073-01,Doritos Tapatío,,Each,Snacks,Chips,Doritos,SL-0073-01,,,,,Photos/Handwritten,
+el-sabroso-guacachips,El Sabroso Original Guacachips (Guacamole),,Each,Snacks,Chips,El Sabroso,SL-0111-01,,,,,Photos/Handwritten,
+el-sabroso-salsitas,El Sabroso Salsitas,,Each,Snacks,Chips,El Sabroso,SL-0112-01,,,,,Photos/Handwritten,
+hl-1101-11,Famous Amos Chocolate Chip,2 oz,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026",
+sl-0085-01,Fritos BBQ Twists XXL,,Each,Snacks,Chips,Fritos,SL-0085-01,,,,,Photos/Handwritten,
+sl-0084-01,Fritos Flamin’ Hot,,Each,Snacks,Chips,Fritos,SL-0084-01,,,,,Photos/Handwritten,
+sl-0083-01,Fritos Regular,,Each,Snacks,Chips,Fritos,SL-0083-01,,,,,Photos/Handwritten,
+sl-0086-01,Fritos Turbos Flamas,,Each,Snacks,Chips,Fritos,SL-0086-01,,,,,Photos/Handwritten,
+sl-0088-01,Funyuns Flamin’ Hot,,Each,Snacks,Chips,Funyuns,SL-0088-01,,,,,Photos/Handwritten,
+sl-0087-01,Funyuns Original,,Each,Snacks,Chips,Funyuns,SL-0087-01,,,,,Photos/Handwritten,
+sl-0089-01,Funyuns Queso,,Each,Snacks,Chips,Funyuns,SL-0089-01,,,,,Photos/Handwritten,
+sl-0129-02,Gansito,2-Pack,Each,Snacks,Sweet Snacks / Bakery,Gansito,SL-0129-02,,,,,Photos/Handwritten,
+sl-0129-01,Gansito,Single,Each,Snacks,Sweet Snacks / Bakery,Gansito,SL-0129-01,,,,,Photos/Handwritten,
+gansito-24,Gansito singles,24 pk,Pack,Snacks,,,,,,,,Starter list,
+sp-1103c-01,Grandma's Chocolate Brownie Cookies,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026 (chip rack)",
+sp-1103b-28,Grandma's Vanilla Creme Sandwich Cookies,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sl-0127-01,Grandma’s Oatmeal Raisin,,Each,Snacks,Sweet Snacks / Bakery,Grandma’s,SL-0127-01,,,,,Photos/Handwritten,
+sl-0128-01,Grandma’s Peanut Butter,,Each,Snacks,Sweet Snacks / Bakery,Grandma’s,SL-0128-01,,,,,Photos/Handwritten,
+sl-0117-01,Hostess Birthday Cupcakes,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0117-01,,,,,Photos/Handwritten,
+sl-0119-01,Hostess Chocolate Lovers Twinkies,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0119-01,,,,,Photos/Handwritten,
+sl-0116-01,Hostess Cupcakes,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0116-01,,,,,Photos/Handwritten,
+sl-0113-01,Hostess Iced Vanilla Zingers,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0113-01,,,,,Photos/Handwritten,
+sl-0120-01,Hostess Jumbo Honey Bun Devils Food,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0120-01,,,,,Photos/Handwritten,
+hl-1101-15,Hostess Jumbo Honey Bun Iced,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026",
+sl-0118-01,Hostess Mega Muffin Double Chocolate,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0118-01,,,,,Photos/Handwritten,
+sl-0114-01,Hostess Powdered Mini Donuts,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0114-01,,,,,Photos/Handwritten,
+sl-0115-01,Hostess Suzy Q Chocolate Cake,,Each,Snacks,Sweet Snacks / Bakery,Hostess,SL-0115-01,,,,,Photos/Handwritten,
+sp-1103-03,Jack Link's Beef Steak Original,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+jack-links-sweet-hot,Jack Link's Beef Steak Sweet & Hot,,Each,Snacks,,,,,,,,Starter list,
+sl-0133-01,Kebbler Sugar Wafers Strawberry Cookies,King Size,Each,Snacks,Sweet Snacks / Bakery,Kebbler,SL-0133-01,,,,,Photos/Handwritten,
+sl-0132-01,Kellogg’s Apple Jacks,,Each,Snacks,Sweet Snacks / Bakery,Kellogg’s,SL-0132-01,,,,,Photos/Handwritten,
+sl-0131-01,Kellogg’s Cocoa Krispies,,Each,Snacks,Sweet Snacks / Bakery,Kellogg’s,SL-0131-01,,,,,Photos/Handwritten,
+sl-0130-01,Kellogg’s Corn Pops,,Each,Snacks,Sweet Snacks / Bakery,Kellogg’s,SL-0130-01,,,,,Photos/Handwritten,
+sp-1103b-29,Knott's Berry Farm Strawberry Shortbread Cookies,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sl-0144-01,La Mexicana Peanuts,,Each,Snacks,Nuts / Seeds,La Mexicana,SL-0144-01,,,,,Photos/Handwritten,
+sl-0146-01,La Moderna Mix Nut Bar,,Each,Snacks,Nuts / Seeds,La Moderna,SL-0146-01,,,,,Photos/Handwritten,
+sp-1103-24,Laky Cup Noodles (assorted flavors),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sp-1103b-31,Lay's Sour Cream & Onion,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sl-0091-01,Lay’s BBQ,,Each,Snacks,Chips,Lay’s,SL-0091-01,,,,,Photos/Handwritten,
+sl-0092-01,Lay’s Chile Limón,,Each,Snacks,Chips,Lay’s,SL-0092-01,,,,,Photos/Handwritten,
+sl-0093-01,Lay’s Flamin’ Hot,,Each,Snacks,Chips,Lay’s,SL-0093-01,,,,,Photos/Handwritten,
+sl-0094-01,Lay’s Limón,,Each,Snacks,Chips,Lay’s,SL-0094-01,,,,,Photos/Handwritten,
+sl-0090-01,Lay’s Regular,,Each,Snacks,Chips,Lay’s,SL-0090-01,,,,,Photos/Handwritten,
+sl-0095-01,Lay’s Sour Cream Onion XXL,,Each,Snacks,Chips,Lay’s,SL-0095-01,,,,,Photos/Handwritten,
+sp-1103b-37,Lupag Dried Shrimp (camarón seco),,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sl-0148-01,Lupag Pecans,,Each,Snacks,Nuts / Seeds,Lupag,SL-0148-01,,,,,Photos/Handwritten,
+lupag-whole-shrimp,Lupag Whole Shrimp (camarón entero),,Each,Snacks,,,,,,,,Starter list,
+sl-0145-01,ManzelaZo Japanese Style Peanuts,5.2 oz,Each,Snacks,Nuts / Seeds,ManzelaZo,SL-0145-01,,,,,Photos/Handwritten,
+sp-1103b-20,Marinela Barritas Strawberry,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-18,Marinela Butter Crowns,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-14,Marinela Choco Roles Pineapple,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-23,Marinela Cinnas Cinnamon,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-19,Marinela Napolitano Orange,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-16,Marinela Pingüinos,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-17,Marinela Pingüinos Hershey's,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-22,Marinela Polvorones Orange,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-21,Marinela Sponch,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-15,Marinela Submarinos Strawberry,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103-15,Maruchan Beef,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+hl-1101-26,Maruchan Chicken,,Each,Snacks,,,,,,,,"Handwritten list #2, 11/01/2026",
+sp-1103-18,Maruchan Chili Piquin & Shrimp,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sp-1103-14,Maruchan Hot & Spicy Chicken,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sp-1103-17,Maruchan Hot & Spicy Shrimp,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sp-1103-16,Maruchan Lime Chili Chicken,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+hl-1101-25,Maruchan Lime Chili with Shrimp,,Each,Snacks,,,,,,,,"Handwritten list #2, 11/01/2026",
+hl-1101-24,Maruchan with Shrimp,,Each,Snacks,,,,,,,,"Handwritten list #2, 11/01/2026",
+sl-0102-01,Mini Takis,,Each,Snacks,Chips,Takis,SL-0102-01,,,,,Photos/Handwritten,
+sp-1103b-24,Miss Vickie's Jalapeño,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+hl-1101-23,Miss Vickie's Sea Salt,,Each,Snacks,,,,,,,,"Handwritten list #2, 11/01/2026",
+sl-0108-01,Munchies Flamin’ Hot,,Each,Snacks,Chips,Munchies,SL-0108-01,,,,,Photos/Handwritten,
+sp-1103-19,Nissin Cup Noodles Beef,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+hl-1101-28,Nissin Cup Noodles Chicken,,Each,Snacks,,,,,,,,"Handwritten list #2, 11/01/2026",
+hl-1101-27,Nissin Cup Noodles Shrimp,,Each,Snacks,,,,,,,,"Handwritten list #2, 11/01/2026",
+sp-1103-23,Nongshim Bowl Noodle Chicken,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sp-1103-20,Nongshim Bowl Noodle Hot & Spicy,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sp-1103-22,Nongshim Bowl Noodle Shrimp,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sp-1103-21,Nongshim Shin Ramyun Bowl,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+peelerz-pineapple-6,Peelerz Pineapple,6 oz,Each,Snacks,,,,,,,,Starter list,
+sp-1103b-27,Pichirilo Peanuts,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-26,Planters Salted Peanuts,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+hl-1101-14,Pop-Tarts Strawberry,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026",
+sp-1103-05,Pringles BBQ (large can),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sl-0107-01,Pringles Cheddar Cheese,1.4 oz,Each,Snacks,Chips,Pringles,SL-0107-01,,,,,Photos/Handwritten,
+sp-1103-04,Pringles Cheddar Cheese (large can),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sp-1103-06,Pringles Original (large can),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+pringles-original-small,Pringles Original (small),3.0 oz,Each,Snacks,,,,,,,,Starter list,
+sp-1103-07,Pringles Pizza (large can),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sl-0106-01,Pringles Sour Cream,1.4 oz,Each,Snacks,Chips,Pringles,SL-0106-01,,,,,Photos/Handwritten,
+sp-1103-08,Pringles Sour Cream & Onion (large can),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sl-0096-01,Ruffles Cheddar,,Each,Snacks,Chips,Ruffles,SL-0096-01,,,,,Photos/Handwritten,
+sl-0098-01,Ruffles Flamin’ Hot,,Each,Snacks,Chips,Ruffles,SL-0098-01,,,,,Photos/Handwritten,
+sl-0099-01,Ruffles Queso,,Each,Snacks,Chips,Ruffles,SL-0099-01,,,,,Photos/Handwritten,
+sl-0097-01,Ruffles Sour Cream,,Each,Snacks,Chips,Ruffles,SL-0097-01,,,,,Photos/Handwritten,
+sl-0104-01,Sabritones Chile Lime,,Each,Snacks,Chips,Sabritones,SL-0104-01,,,,,Photos/Handwritten,
+sp-1103-12,Samyang Buldak Carbonara (pack),,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sp-1103-25,Samyang Buldak Carbonara Cup,,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+shin-ramyun-black,Shin Ramyun Black Beef Bone Broth,3.56 oz,Each,Snacks,,,,,,,,Starter list,
+shin-ramyun-gourmet-spicy,Shin Ramyun Gourmet Spicy,4 oz,Each,Snacks,,,,,,,,Starter list,
+hl-1101-09,Slim Jim Original Monster Size,,Each,Snacks,,,,,,,,"Handwritten list #1, 11/01/2026",
+slim-jim-120,Slim Jim Original snack sticks,120 ct,Pack,Snacks,,,,,,,,Starter list,
+sl-0109-01,Smartfood White Cheddar,,Each,Snacks,Chips,Smartfood,SL-0109-01,,,,,Photos/Handwritten,
+sl-0101-01,Takis Blue,3.25 oz,Each,Snacks,Chips,Takis,SL-0101-01,,,,,Photos/Handwritten,
+sl-0101-02,Takis Blue,9.9 oz,Each,Snacks,Chips,Takis,SL-0101-02,,,,,Photos/Handwritten,
+sp-1103-09,Takis Crisps Fuego,5.5 oz,Each,Snacks,,,,,,,,"Shelf photo, 11/03/2026",
+sl-0100-01,Takis Fuego,5.5 oz,Each,Snacks,Chips,Takis,SL-0100-01,,,,,Photos/Handwritten,
+sl-0103-01,Takis Fuego Regular,9.9 oz,Each,Snacks,Chips,Takis,SL-0103-01,,,,,Photos/Handwritten,
+sl-0105-01,Tostitos Salsa Verde,,Each,Snacks,Chips,Tostitos,SL-0105-01,,,,,Photos/Handwritten,
+sp-1103b-33,Wonderful Pistachios Roasted & Salted,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sp-1103b-34,Wonderful Pistachios Salt & Vinegar,,Each,Snacks,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+5-spearmint-rain,5 Spearmint Rain gum,,Each,Candy & Gum,,,,,,,,Starter list,
+5-watermelon-prism,5 Watermelon Prism gum,,Each,Candy & Gum,,,,,,,,Starter list,
+hl-1101-06,Almond Joy Coconut & Almond Chocolate,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026",
+sl-0138-01,Eclipse Gum,,Each,Candy & Gum,Candy / Gum,Eclipse,SL-0138-01,,,,,Photos/Handwritten,
+extra-peppermint,Extra Long Lasting Peppermint gum,,Each,Candy & Gum,,,,,,,,Starter list,
+halls-assorted-citrus,Halls Assorted Citrus,,Each,Candy & Gum,,,,,,,,Starter list,
+sl-0139-01,Halls Extra Strong,,Each,Candy & Gum,Candy / Gum,Halls,SL-0139-01,,,,,Photos/Handwritten,
+hl-1101-04,Hershey's Milk Chocolate,1.55 oz,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026",
+hl-1101-05,Kinder Joy Eggs,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026",
+hl-1101-03,Kit Kat (small),,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026",
+sl-0135-01,Mentos Gum,,Each,Candy & Gum,Candy / Gum,Mentos,SL-0135-01,,,,,Photos/Handwritten,
+hl-1101-12,Mentos Pure Fresh Gum Spearmint,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026",
+mike-and-ike-original,Mike and Ike Original Fruits,,Each,Candy & Gum,,,,,,,,Starter list,
+sp-1103-02,Nerds Rope Rainbow,24 ct,Pack,Candy & Gum,,,,,,,,"Shelf photo, 11/03/2026",
+sp-1103-01,Nerds Rope Very Berry,24 ct,Pack,Candy & Gum,,,,,,,,"Shelf photo, 11/03/2026",
+sl-0136-01,Orbit Gum,,Each,Candy & Gum,Candy / Gum,Orbit,SL-0136-01,,,,,Photos/Handwritten,
+reeses-sticks-20,Reese's Sticks,20 ct,Pack,Candy & Gum,,,,,,,,Starter list,
+ring-pop-40,Ring Pop,40 ct,Pack,Candy & Gum,,,,,,,,Starter list,
+hl-1101-02,Rip Rolls Blue Raspberry,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026",
+sl-0140-01,Rip Rolls Watermelon,,Each,Candy & Gum,Candy / Gum,Rip Rolls,SL-0140-01,,,,,Photos/Handwritten,
+snickers-almond-small,Snickers Almond (small),,Each,Candy & Gum,,,,,,,,Starter list,
+hl-1101-01,Sour Patch Kids Watermelon,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026",
+sl-0134-01,Tic Tac,,Each,Candy & Gum,Candy / Gum,Tic Tac,SL-0134-01,,,,,Photos/Handwritten,
+sl-0141-01,Tootsie Dots,,Each,Candy & Gum,Candy / Gum,Tootsie,SL-0141-01,,,,,Photos/Handwritten,
+sl-0137-01,Trident Gum,,Each,Candy & Gum,Candy / Gum,Trident,SL-0137-01,,,,,Photos/Handwritten,
+trident-pineapple,Trident Pineapple gum,,Each,Candy & Gum,,,,,,,,Starter list,
+trident-spearmint,Trident Spearmint gum,,Each,Candy & Gum,,,,,,,,Starter list,
+hl-1101-13,Trident White Spearmint Gum,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026",
+hl-1101-07,Vero Picamelon,,Each,Candy & Gum,,,,,,,,"Handwritten list #1, 11/01/2026",
+zumba-goma-sandia,Zumba Goma Sandía,,Each,Candy & Gum,,,,,,,,Starter list,
+pr-banana,Banana,,Each,Produce,,,,,,,0.59,"Produce price list, 11/05/2026",2 for $1
+pr-apple,Apple (Manzana),,Each,Produce,,,,,,,0.59,"Produce price list, 11/05/2026",2 for $1
+pr-mandarin,Mandarin (Mandarina),,Each,Produce,,,,,,,0.59,"Produce price list, 11/05/2026",2 for $1
+pr-avocado,Avocado (Aguacate),,Each,Produce,,,,,,,1.50,"Produce price list, 11/05/2026",
+pr-carrot,Carrot (Zanahoria),,Each,Produce,,,,,,,0.59,"Produce price list, 11/05/2026",2 for $1
+pr-lime,Lime (Limón verde),,Each,Produce,,,,,,,,"Produce price list, 11/05/2026",4 for $1
+pr-lemon,Lemon (Limón amarillo),,Each,Produce,,,,,,,0.59,"Produce price list, 11/05/2026",2 for $1
+pr-jalapeno,Jalapeño,,Each,Produce,,,,,,,,"Produce price list, 11/05/2026",14 for $1
+pr-bell-pepper,Bell Pepper (Chile morrón),,Each,Produce,,,,,,,0.75,"Produce price list, 11/05/2026",
+pr-white-onion,White Onion (Cebolla blanca),,Each,Produce,,,,,,,0.99,"Produce price list, 11/05/2026",
+pr-potato,Potato (Papa),,Each,Produce,,,,,,,0.59,"Produce price list, 11/05/2026",3 for $1
+pr-tomato,Tomato (Tomate),,Each,Produce,,,,,,,0.59,"Produce price list, 11/05/2026",2 for $1
+sl-0175-01,1-2-3 Vegetable Oil,,Each,Grocery,Sauces / Condiments,1-2-3,SL-0175-01,,,,,Photos/Handwritten,
+sp-1103-13,Bimbo Blanco Grande White Bread,,Each,Grocery,,,,,,,,"Shelf photo, 11/03/2026",
+sp-1103b-07,Bimbo Toasted Bread Classic,,Each,Grocery,,,,,,,,"Shelf photos, 11/03/2026 (Bimbo/Marinela rack, chip racks)",
+sl-0156-01,C&H Pure Cane Sugar,,Each,Grocery,Dry Goods,C&H,SL-0156-01,,,,,Photos/Handwritten,
+sl-0173-01,Campero Ketchup,,Each,Grocery,Sauces / Condiments,Campero,SL-0173-01,,,,,Photos/Handwritten,
+sl-0155-01,Chicken of the Sea Tuna Chunk Light,,Each,Grocery,Canned / Packaged,Chicken of the Sea,SL-0155-01,,,,,Photos/Handwritten,
+sl-0161-01,Coffee Mate Creamer,,Each,Grocery,Coffee / Breakfast,Coffee Mate,SL-0161-01,,,,,Photos/Handwritten,
+sl-0152-01,Ducal Black Beans,,Each,Grocery,Canned / Packaged,Ducal,SL-0152-01,,,,,Photos/Handwritten,
+sl-0151-01,Ducal Refried Beans,,Each,Grocery,Canned / Packaged,Ducal,SL-0151-01,,,,,Photos/Handwritten,
+sl-0153-01,Goya Beans,,Each,Grocery,Canned / Packaged,Goya,SL-0153-01,,,,,Photos/Handwritten,
+sl-0169-01,Heinz Vinegar,,Each,Grocery,Sauces / Condiments,Heinz,SL-0169-01,,,,,Photos/Handwritten,
+sl-0150-01,Juanita’s Hot & Spicy Menudo,,Each,Grocery,Canned / Packaged,Juanita’s,SL-0150-01,,,,,Photos/Handwritten,
+sl-0149-01,Juanita’s Menudo,,Each,Grocery,Canned / Packaged,Juanita’s,SL-0149-01,,,,,Photos/Handwritten,
+sl-0164-01,Kellogg’s Cocoa Krispies Cereal,,Each,Grocery,Coffee / Breakfast,Kellogg’s,SL-0164-01,,,,,Photos/Handwritten,
+sl-0163-01,Kellogg’s Corn Pops Cereal,,Each,Grocery,Coffee / Breakfast,Kellogg’s,SL-0163-01,,,,,Photos/Handwritten,
+sl-0171-01,Ketchup,,Each,Grocery,Sauces / Condiments,Ketchup,SL-0171-01,,,,,Photos/Handwritten,
+sl-0168-01,Kikkoman Soy Sauce,,Each,Grocery,Sauces / Condiments,Kikkoman,SL-0168-01,,,,,Photos/Handwritten,
+sl-0172-01,La Morena Canned Peppers,Assorted,Each,Grocery,Sauces / Condiments,La Morena,SL-0172-01,,,,,Photos/Handwritten,
+sl-0158-01,Maizena Corn Starch,,Each,Grocery,Dry Goods,Maizena,SL-0158-01,,,,,Photos/Handwritten,
+sl-0157-01,Maseca Corn Flour,2 lb,Each,Grocery,Dry Goods,Maseca,SL-0157-01,,,,,Photos/Handwritten,
+sl-0157-02,Maseca Corn Flour,4 lb,Each,Grocery,Dry Goods,Maseca,SL-0157-02,,,,,Photos/Handwritten,
+sl-0170-01,Mayonnaise,,Each,Grocery,Sauces / Condiments,Mayonnaise,SL-0170-01,,,,,Photos/Handwritten,
+sl-0174-01,Mazola Corn Oil,,Each,Grocery,Sauces / Condiments,Mazola,SL-0174-01,,,,,Photos/Handwritten,
+sl-0162-01,Morton Salt,,Each,Grocery,Dry Goods,Morton,SL-0162-01,,,,,Photos/Handwritten,
+sl-0160-01,Nescafé Clasico,,Each,Grocery,Coffee / Breakfast,Nescafé,SL-0160-01,,,,,Photos/Handwritten,
+sl-0159-01,Pearl Milling Pancake Mix Original,,Each,Grocery,Dry Goods,Pearl Milling,SL-0159-01,,,,,Photos/Handwritten,
+sl-0154-01,Sardines,Various,Each,Grocery,Canned / Packaged,Sardines,SL-0154-01,,,,,Photos/Handwritten,
+sl-0167-01,Sriracha Hot Chili Sauce,,Each,Grocery,Sauces / Condiments,Sriracha,SL-0167-01,,,,,Photos/Handwritten,
+sl-0165-02,Tapatío Hot Sauce,32 oz,Each,Grocery,Sauces / Condiments,Tapatío,SL-0165-02,,,,,Photos/Handwritten,
+sl-0165-01,Tapatío Hot Sauce,5 oz,Each,Grocery,Sauces / Condiments,Tapatío,SL-0165-01,,,,,Photos/Handwritten,
+hl-1101-19,Tostadas El Perico,,Each,Grocery,,,,,,,,"Handwritten list #1, 11/01/2026",
+sl-0166-01,Valentina Hot Sauce,,Each,Grocery,Sauces / Condiments,Valentina,SL-0166-01,,,,,Photos/Handwritten,
+sl-0217-01,Juanita’s Arroz con Leche,10 pieces,Each,Refrigerated & Desserts,Desserts,Juanita’s,SL-0217-01,,,,,Photos/Handwritten,
+sl-0220-01,Juanita’s Banderita Gelatin,10 pieces,Each,Refrigerated & Desserts,Desserts,Juanita’s,SL-0220-01,,,,,Photos/Handwritten,
+sl-0221-01,Juanita’s Creamy Flan,10 pieces,Each,Refrigerated & Desserts,Desserts,Juanita’s,SL-0221-01,,,,,Photos/Handwritten,
+sl-0219-01,Juanita’s Mixed Fruit Gelatin,10 pieces,Each,Refrigerated & Desserts,Desserts,Juanita’s,SL-0219-01,,,,,Photos/Handwritten,
+sl-0218-01,Juanita’s Vanilla Gelatin,10 pieces,Each,Refrigerated & Desserts,Desserts,Juanita’s,SL-0218-01,,,,,Photos/Handwritten,
+sl-0177-01,Ajax Cleaner,,Each,Household & Cleaning,Cleaning,Ajax,SL-0177-01,,,,,Photos/Handwritten,
+sl-0187-01,Ariel Detergent,,Each,Household & Cleaning,Laundry,Ariel,SL-0187-01,,,,,Photos/Handwritten,
+sl-0183-01,Awesome Cleaner,,Each,Household & Cleaning,Cleaning,Awesome,SL-0183-01,,,,,Photos/Handwritten,
+hl-1101-21,Candle Sagrado Corazón de Jesús,,Each,Household & Cleaning,,,,,,,,"Handwritten list #1, 11/01/2026",
+hl-1101-22,Candle San Judas Tadeo White Vanilla,,Each,Household & Cleaning,,,,,,,,"Handwritten list #1, 11/01/2026",
+hl-1101-20,Candle Virgen de Guadalupe,,Each,Household & Cleaning,,,,,,,,"Handwritten list #1, 11/01/2026",
+sl-0181-01,Clorox Bleach,24 oz,Each,Household & Cleaning,Cleaning,Clorox,SL-0181-01,,,,,Photos/Handwritten,
+sl-0191-01,Downy Fabric Softener,,Each,Household & Cleaning,Laundry,Downy,SL-0191-01,,,,,Photos/Handwritten,
+sl-0176-01,Fabuloso Cleaner,,Each,Household & Cleaning,Cleaning,Fabuloso,SL-0176-01,,,,,Photos/Handwritten,
+sl-0192-01,Mahathir Laundry Detergent,,Each,Household & Cleaning,Laundry,Mahathir,SL-0192-01,,,,,Photos/Handwritten,
+sl-0185-01,Oven Cleaner,,Each,Household & Cleaning,Cleaning,Oven Cleaner,SL-0185-01,,,,,Photos/Handwritten,
+sl-0179-01,Palmolive Dish Soap,,Each,Household & Cleaning,Cleaning,Palmolive,SL-0179-01,,,,,Photos/Handwritten,
+sl-0182-01,Raid Ant & Roach Spray,17.5 oz,Each,Household & Cleaning,Cleaning,Raid,SL-0182-01,,,,,Photos/Handwritten,
+sl-0188-01,Roma Detergent,,Each,Household & Cleaning,Laundry,Roma,SL-0188-01,,,,,Photos/Handwritten,
+sl-0180-01,Salvo Dish Soap,,Each,Household & Cleaning,Cleaning,Salvo,SL-0180-01,,,,,Photos/Handwritten,
+sl-0189-01,Suavitel Fabric Softener,450 ml,Each,Household & Cleaning,Laundry,Suavitel,SL-0189-01,,,,,Photos/Handwritten,
+sl-0190-01,Suavitel Fresca Aroma,450 ml,Each,Household & Cleaning,Laundry,Suavitel,SL-0190-01,,,,,Photos/Handwritten,
+sl-0186-01,Tide Detergent,Liquid,Each,Household & Cleaning,Laundry,Tide,SL-0186-01,,,,,Photos/Handwritten,
+sl-0186-02,Tide Detergent,Powder,Each,Household & Cleaning,Laundry,Tide,SL-0186-02,,,,,Photos/Handwritten,
+sl-0184-01,Toilet Bowl Cleaner,,Each,Household & Cleaning,Cleaning,Toilet Bowl Cleaner,SL-0184-01,,,,,Photos/Handwritten,
+sl-0178-01,Windex,,Each,Household & Cleaning,Cleaning,Windex,SL-0178-01,,,,,Photos/Handwritten,
+sl-0193-01,Zote Laundry Soap,,Each,Household & Cleaning,Laundry,Zote,SL-0193-01,,,,,Photos/Handwritten,
+sl-0200-01,Axiom Plates,,Each,Paper & Supplies,Paper Goods / Supplies,Axiom,SL-0200-01,,,,,Photos/Handwritten,
+sl-0194-01,Bounty Paper Towels,,Each,Paper & Supplies,Paper Goods / Supplies,Bounty,SL-0194-01,,,,,Photos/Handwritten,
+sl-0197-01,Foam Plates,,Each,Paper & Supplies,Paper Goods / Supplies,Foam Plates,SL-0197-01,,,,,Photos/Handwritten,
+sl-0196-01,Kirkland Paper Towels,,Each,Paper & Supplies,Paper Goods / Supplies,Kirkland,SL-0196-01,,,,,Photos/Handwritten,
+sl-0195-01,Melody Paper Towels,,Each,Paper & Supplies,Paper Goods / Supplies,Melody,SL-0195-01,,,,,Photos/Handwritten,
+sl-0199-03,Paper Bags,No. 10,Each,Paper & Supplies,Paper Goods / Supplies,Paper Bags,SL-0199-03,,,,,Photos/Handwritten,
+hl-1101-38,Paper Bags,No. 2,Each,Paper & Supplies,,,,,,,,"Handwritten list #2, 11/01/2026",
+sl-0199-01,Paper Bags,No. 4,Each,Paper & Supplies,Paper Goods / Supplies,Paper Bags,SL-0199-01,,,,,Photos/Handwritten,
+sl-0199-02,Paper Bags,No. 8,Each,Paper & Supplies,Paper Goods / Supplies,Paper Bags,SL-0199-02,,,,,Photos/Handwritten,
+sl-0198-01,Plastic Cups,12 oz,Each,Paper & Supplies,Paper Goods / Supplies,Plastic Cups,SL-0198-01,,,,,Photos/Handwritten,
+sl-0198-02,Plastic Cups,18 cups,Each,Paper & Supplies,Paper Goods / Supplies,Plastic Cups,SL-0198-02,,,,,Photos/Handwritten,
+sl-0201-01,Reynolds Wrap,,Each,Paper & Supplies,Paper Goods / Supplies,Reynolds,SL-0201-01,,,,,Photos/Handwritten,
+sl-0202-01,Stick-Em Mouse Traps,2 pack,Each,Paper & Supplies,Paper Goods / Supplies,Stick-Em,SL-0202-01,,,,,Photos/Handwritten,
+sl-0216-01,Gillette Gel,,Each,Personal Care,Personal Care / Other,Gillette,SL-0216-01,,,,,Photos/Handwritten,
+sl-0214-01,Gillette Gel Deodorant,,Each,Personal Care,Personal Care / Other,Gillette,SL-0214-01,,,,,Photos/Handwritten,
+sl-0213-01,Nivea Lotion,8 oz,Each,Personal Care,Personal Care / Other,Nivea,SL-0213-01,,,,,Photos/Handwritten,
+sl-0215-01,Rhino Liquid Fuel,,Each,Personal Care,Personal Care / Other,Rhino,SL-0215-01,,,,,Photos/Handwritten,
+sl-0204-01,Choice Cuts Dog Food,,Each,Pet,Pet Food,Choice Cuts,SL-0204-01,,,,,Photos/Handwritten,
+sl-0203-01,Friskies Cat Food,,Each,Pet,Pet Food,Friskies,SL-0203-01,,,,,Photos/Handwritten,
+sl-0205-01,Surfin’ Turfin’ Cat Food,3.15 lb,Each,Pet,Pet Food,Surfin’ Turfin’,SL-0205-01,,,,,Photos/Handwritten,
+sl-0209-01,Antifreeze Coolant,,Each,Automotive,Automotive,Antifreeze,SL-0209-01,,,,,Photos/Handwritten,
+sl-0207-01,Automatic Transmission Fluid,,Each,Automotive,Automotive,ATF,SL-0207-01,,,,,Photos/Handwritten,
+sl-0211-01,Brake Fluid,,Each,Automotive,Automotive,Brake Fluid,SL-0211-01,,,,,Photos/Handwritten,
+sl-0208-01,Engine Additives,,Each,Automotive,Automotive,Engine Additive,SL-0208-01,,,,,Photos/Handwritten,
+sl-0212-01,Gas Treatment,,Each,Automotive,Automotive,Gas Treatment,SL-0212-01,,,,,Photos/Handwritten,
+sl-0210-01,Liquid Fire Drain Opener,,Each,Automotive,Automotive,Liquid Fire,SL-0210-01,,,,,Photos/Handwritten,
+sl-0206-01,Supreme Motor Oil,10W-30,Each,Automotive,Automotive,Supreme,SL-0206-01,,,,,Photos/Handwritten,
+sl-0206-02,Supreme Motor Oil,15W-30,Each,Automotive,Automotive,Supreme,SL-0206-02,,,,,Photos/Handwritten,
+sl-0206-03,Supreme Motor Oil,HD 30,Each,Automotive,Automotive,Supreme,SL-0206-03,,,,,Photos/Handwritten,
