@@ -7,7 +7,7 @@ A phone-first ordering tool for Sunny Liquor. The people who order stock (Jesus,
 | File | What it is |
 | --- | --- |
 | `index.html` | The whole app in one file: markup, styles and script. |
-| `items.csv` | The store's item list as of 11/04/2026: 430 products. |
+| `items.csv` | The store's item list as of 11/05/2026: 442 products, including fresh produce with prices. |
 | `README.md` | This file. |
 
 ## Important: it currently runs inside Claude
@@ -38,7 +38,7 @@ Barcode decoding does not need Claude: it uses the browser's `BarcodeDetector` w
 | Field | Notes |
 | --- | --- |
 | `name`, `size`, `unit` | `unit` is one of Bottle, Can, Pack, Case, Each |
-| `category` | Spirits, Beer & Seltzer, Drinks, Snacks, Candy & Gum, Grocery, Refrigerated & Desserts, Household & Cleaning, Paper & Supplies, Personal Care, Pet, Automotive, Other |
+| `category` | Spirits, Beer & Seltzer, Drinks, Snacks, Candy & Gum, Produce, Grocery, Refrigerated & Desserts, Household & Cleaning, Paper & Supplies, Personal Care, Pet, Automotive, Other |
 | `barcode` | UPC/EAN digits; matched with leading zeros ignored |
 | `sku`, `subcategory`, `brand`, `vendor`, `cost`, `price`, `par`, `reorderQty` | From the master inventory list where available; mostly blank today |
 | `active` | `false` hides the item from the order screen |

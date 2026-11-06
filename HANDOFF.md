@@ -34,10 +34,10 @@ Build for **Sunny Liquor only** for now; it's the pilot. Once Sunny Singh approv
 - Put a `store_id` on every record from day one, so the next store is setup, not a rebuild.
 - Keep wholesalers (vendors) as their own shared list, since all three stores order from the same ones. Each store keeps its own items, people and orders.
 
-**items**: `id`, `name`, `size`, `unit` (Bottle | Can | Pack | Case | Each), `category` (13 fixed values, see `CATS` ~line 181), `barcode`, `active`, `source`, plus `sku`, `subcategory`, `brand`, `vendor`, `cost`, `price`, `par`, `reorderQty` (mostly empty today), `addedBy`, `createdAt`.
+**items**: `id`, `name`, `size`, `unit` (Bottle | Can | Pack | Case | Each), `category` (14 fixed values, see `CATS` ~line 181), `price`, `priceDeal` (e.g. "2 for $1"), `barcode`, `active`, `source`, plus `sku`, `subcategory`, `brand`, `vendor`, `cost`, `price`, `par`, `reorderQty` (mostly empty today), `addedBy`, `createdAt`.
 
 - Barcode matching ignores leading zeros (`normCode()`), so UPC-A and EAN-13 forms match.
-- `items.csv` in this repo holds all 430 current items. IDs starting `sl-` map to the store's master inventory record IDs.
+- `items.csv` in this repo holds all 442 current items, including 12 fresh produce items with prices (added for EBT; `price_deal` column holds multi-buy prices). IDs starting `sl-` map to the store's master inventory record IDs.
 
 **orders**: `id`, `createdAt` (ms), `byLabel` (orderer name), `status` (sent | ordered | received), `note` (English), `noteOriginal` (Spanish original, if translated), `lines[]` of `{itemId, name, size, unit, category, qty}`.
 
@@ -99,7 +99,7 @@ Save whatever answers with the barcode, so each product is looked up once.
 - [ ] An unknown barcode fills in name and size without typing, then scans instantly next time.
 - [ ] Sunny Singh sees new orders and can mark them Ordered and Received.
 - [ ] An order can be checked off at pickup and at the store, and filed with any shortages listed.
-- [ ] The 430 items and the order history are imported, nothing retyped.
+- [ ] The 442 items and the order history are imported, nothing retyped.
 - [ ] A second store can be added with its own items and people, without code changes.
 
 **More detail:** the build spec doc "Sunny Order Pad — Barcode Lookup Build Spec" has the lookup flow diagram and the phased plan. Ask Dorian to share it with you.
